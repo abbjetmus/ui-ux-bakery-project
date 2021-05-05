@@ -1,0 +1,17 @@
+{
+  "name": "bakeryapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.3",
+    "faker": "^5.5.3",
+    "lodash": "^4.17.21"
+  }
+}
