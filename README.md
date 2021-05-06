@@ -80,7 +80,6 @@ The backend has four collections:
 
 - The application MUST be implemented in Vue or React.
 - Use any npm dependencies (and dev-dependencies) you want. All dependecies you add (except Vue or React) should be motivated (dev dependecies excluded). Use `documentation.md` for this.
-- Please test your application. All tests MUST be executed by running `npm run test`
 - You are free to use a bootstrap tool to spin upp the application e.g. `Vue CLI` or `Create React App`. However, commits 
 - Any description about the project; motivating dependencies you added or design decisions you think is worth mentioning etc. should be placed in a file `documentation.md` in the root of the project.
 - Make sure you merged your solution to the `master` branch. If you do work on other branches, that's fine - they don't need to be deleted - but we will not look at them.
