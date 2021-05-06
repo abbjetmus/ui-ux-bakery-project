@@ -22,7 +22,6 @@ This assignment has a lot of freedom in how you design it. The only thing provid
 * Politiker
 * Gamers och spelentusiaster
 * Botanister
-* Feminister
 * Akademi och skola
 * Djurpark/zoo
 
