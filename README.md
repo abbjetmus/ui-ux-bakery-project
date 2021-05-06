@@ -1,5 +1,10 @@
 # UI/UX frontend design and implementation assignment
 
+## UI/UX Must Read Links
+
+<https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c>
+<https://www.slideshare.net/DijupTuladhar/uiux-fundamentals>
+
 ## Introduction
 
 This assignment has a lot of freedom in how you design it. The only thing provided is a very basic backend, just a `db.json` file served with [json-server](https://www.npmjs.com/package/json-server). Your goal is to implement a frontend application in Vue or React, your choice.
