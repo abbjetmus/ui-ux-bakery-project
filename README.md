@@ -3,11 +3,12 @@
 ## UI/UX Must Read Links
 
 <https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c> <br>
-<https://www.slideshare.net/DijupTuladhar/uiux-fundamentals> <br>
+
 
 <i>Baserat på eran målgrupp så kommer ni behöva motivera era design val.</i>
 
 ## Introduction
+In this project we will practice UI / UX and apply it to an application. You will work in groups of 3 in the project where you get to decide members. The application will be a cafe online shop (konditori) where the data is predetermined, however, appearance and design are not determined. Your task is to, based on a target group, design and implement the application with strong emphasis on design and UI / UX in mind.
 
 This assignment has a lot of freedom in how you design it. The only thing provided is a very basic backend, just a `db.json` file served with [json-server](https://www.npmjs.com/package/json-server). Your goal is to implement a frontend application in Vue or React, your choice.
 
