@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This assignment has a lot of freedom in how you design it. It's defenitely not a kind of "fill in the blanks"-test, quite the opposite. The only thing provided is a very basic backend, just a `db.json` file served with [json-server](https://www.npmjs.com/package/json-server). Your goal is to implement a frontend application in Vue or React, your choice.
+This assignment has a lot of freedom in how you design it. The only thing provided is a very basic backend, just a `db.json` file served with [json-server](https://www.npmjs.com/package/json-server). Your goal is to implement a frontend application in Vue or React, your choice.
 
 ## The application
 
@@ -51,7 +51,8 @@ The backend has four collections:
 
 `GET localhost:3000/cakes`
 
-**try it in e.g. postman, or just post the url into the browser**
+**I can recommend installing the Visual Studio extension called Thunder Client to test API calls**
+**try it in e.g. Thunder Client, or just post the url into the browser**
 
 ## Requirements
 
