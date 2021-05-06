@@ -12,6 +12,20 @@ In this project we will practice UI / UX and apply it to an application. You wil
 
 This assignment has a lot of freedom in how you design it. The only thing provided is a very basic backend, just a `db.json` file served with [json-server](https://www.npmjs.com/package/json-server). Your goal is to implement a frontend application in Vue or React, your choice.
 
+## Target groups (swedish)
+* Små barn + föräldrar
+* Pensionärer
+* Ungdomar + unga vuxna (15 - 25år)
+* Lastbilschaufförer
+* Turister på soligt ställe
+* Religösa grupper
+* Politiker
+* Gamers och spelentusiaster
+* Botanister
+* Feminister
+* Akademi och skola
+* Djurpark/zoo
+
 ## The application
 
 ### Overview
