@@ -5,7 +5,7 @@
 <https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c> <br>
 <https://www.slideshare.net/DijupTuladhar/uiux-fundamentals> <br>
 
-<i>Baserat på eran målgrupp så kommer ni behöva motivera era design val.<i>
+<i>Baserat på eran målgrupp så kommer ni behöva motivera era design val.</i>
 
 ## Introduction
 
