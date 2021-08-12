@@ -87,6 +87,15 @@ The backend has four collections:
 
 You need to have `node` and `npm` installed. Then clone this repository, run `npm install` and get started :)
 
+## How create new database file
+
+- `npm install -g json-server`
+- `json-server generate.js`
+- press `s` to save a snapshot of the database. After that rename your snapshot to "db.json" then restart the server.
+
+if you want to modify your generator, change generate.js. More info about how to use faker [here](https://github.com/marak/Faker.js/).
+
+
 ## How to send in the assignment
 
 The assignement can be checked in to a Github classroom repo that you have been assigned.
