@@ -1,0 +1,65 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "title": "Gamma",
+      "previewDescription": "Dator för dig som är superUser",
+      "detailDescription": "Dator för dig som är superUser. Gllar du spela spel, trycka på knappar eller bara se saker i 60 fps. Då är det här datorn för dig.",
+      "image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/AF3MK6/c78b43886d774ab19f375b2191b1e2c0.jpeg/f/fierce-gobbler-gaming-pc-desktop-computer.jpeg?width=580",
+      "price": 18500
+    },
+    {
+      "id": 2,
+      "title": "Alfa",
+      "previewDescription": "Ska du hålla på me AI, IOT , SAS, UX, UI eller lyssna på Looptroop",
+      "detailDescription": "Ska du hålla på me AI, IOT , SAS, UX, UI eller lyssna på Looptroop. Detta är en grym dator prestandamässigt och du får en unik upplevelse som få andra på denna jord har haft. ''Tänk dig Ready player one'' möter Starwars minus effekter, Virtuell verklighet och Scifi! ",
+      "image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/AC83HM/3f0d86d756984cceb81488c9c31abc1b.jpeg/f/fierce-exile-gaming-pc-desktop-computer.jpeg?width=580",
+      "price": 23420
+    },
+    {
+      "id": 3,
+      "title": "Beta",
+      "previewDescription": "Datorn för dig som bara vill skruva mer än att surfa",
+      "detailDescription": "Pajar du saker bara för att kunna fixa dem? Ser du att resan är målet mer än målet? Då är Beta datorn för dig, vi har plockat isär allt inför leverans, inte en enda sak sak sitta på rätt plats innan du satt den där.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHUQKvaqhS6unOJ4xxtp-RjobTQNNEzX5wA&usqp=CAU",
+      "price": 12500
+    },
+    {
+      "id": 4,
+      "title": "Sigma",
+      "previewDescription": "Datorn för dig som levt längre än datorerna, internet och radion",
+      "detailDescription": "Har du inte så höga krav och vill helst inte använda den alls. Ska den stå på ett museeum eller på ett dammigt kontor? Då är detta datorn för dig, det är får första inköpta modell och har diskläsare, tangentbord och skärm.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/1200px-IBM_PC-IMG_7271_%28transparent%29.png",
+      "price": 5560
+    }
+  ],
+  "staff": [
+    {
+      "id": 1,
+      "name": "Loke Grundvall",
+      "email": "loke_grundvall@hotmail.com",
+      "phone": "(683) 364-6626",
+      "role": "manager",
+      "dateOfBirth": "1989-05-13T14:12:58.208Z",
+      "avatar": "https://www.stylectory.net/wp-content/uploads/2021/01/image-3.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Tyr Troengson",
+      "email": "tyr_troengson@hotmail.com",
+      "phone": "(880) 785-3345",
+      "role": "fixer",
+      "dateOfBirth": "1990-10-24T01:11:26.670Z",
+      "avatar": "https://i.redd.it/6hnm464c7n461.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tore  Alterman",
+      "email": "tore.alterman@hotmail.com",
+      "phone": "952-531-7444",
+      "role": "warehouse-boss",
+      "dateOfBirth": "1956-11-06T11:03:53.873Z",
+      "avatar": "https://throwbackthorsday.files.wordpress.com/2015/03/chris-hemsworth-young.jpg"
+    }
+  ]
+}
