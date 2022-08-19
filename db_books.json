@@ -1,0 +1,1968 @@
+{
+    "books": [
+        {
+            "id": 0,
+            "title": "Unga kvinnor",
+            "author": "Louisa May Alcott",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9179752098/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ungdomsböcker",
+                "Klassiker",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9789179752095",
+            "copies": 5
+        },
+        {
+            "id": 1,
+            "title": "Dödfödd",
+            "author": "Pål Eggert",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9188185354/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Urban fantasy"
+            ],
+            "ISBN": "9789188185358",
+            "copies": 5
+        },
+        {
+            "id": 2,
+            "title": "Rymdskräck",
+            "author": "Jonny Berg och Sofia Albertsson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9189115333/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Science fiction",
+                "Skräck",
+                "Noveller"
+            ],
+            "ISBN": "9789189115330",
+            "copies": 5
+        },
+        {
+            "id": 3,
+            "title": "I dödsskuggans land",
+            "author": "Alden Bell",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186845241/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Rysare",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-86845-24-1",
+            "copies": 5
+        },
+        {
+            "id": 4,
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9178934753/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Science fiction"
+            ],
+            "ISBN": "9789178934751",
+            "copies": 5
+        },
+        {
+            "id": 5,
+            "title": "Kleptomania",
+            "author": "Kristina Hård",
+            "genre": [],
+            "ISBN": "978-91-7599-104-7",
+            "copies": 5
+        },
+        {
+            "id": 6,
+            "title": "The well of ascension",
+            "author": "Brandon Sanderson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0765316889/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "978-0-7653-1688-2",
+            "copies": 5
+        },
+        {
+            "id": 7,
+            "title": "Om jag kunde drömma",
+            "author": "Stephenie Meyer",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132211562/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ungdomsböcker",
+                "Unga vuxna",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9789132211560",
+            "copies": 5
+        },
+        {
+            "id": 8,
+            "title": "Snösommar",
+            "author": "Kristina Hård",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9175990962/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Dystopier",
+                "Skräck",
+                "Fantasy",
+                "Romaner"
+            ],
+            "ISBN": "9789175990965",
+            "copies": 5
+        },
+        {
+            "id": 9,
+            "title": "The hero of ages",
+            "author": "Brandon Sanderson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0765316897/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "978-0-7653-1689-9",
+            "copies": 5
+        },
+        {
+            "id": 10,
+            "title": "Crooked Kingdom",
+            "author": "Leigh Bardugo",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1627792139/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Young adult fiction",
+                "Fantasy fiction",
+                "Juvenile works",
+                "Fantasy",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9781627792134",
+            "copies": 5
+        },
+        {
+            "id": 11,
+            "title": "Borde vara död",
+            "author": "Pål Eggert",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9173553034/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Rysare",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-7355-303-4",
+            "copies": 5
+        },
+        {
+            "id": 12,
+            "title": "Ninth house",
+            "author": "Leigh Bardugo",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1473227976/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Fantasy",
+                "Urban fantasy",
+                "Skräck"
+            ],
+            "ISBN": "9781473227972",
+            "copies": 5
+        },
+        {
+            "id": 13,
+            "title": "The final empire",
+            "author": "Brandon Sanderson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0575089911/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Fantasy",
+                "Romaner",
+                "Fantasy fiction"
+            ],
+            "ISBN": "9780575089914",
+            "copies": 5
+        },
+        {
+            "id": 14,
+            "title": "Särskild",
+            "author": "Nene Ormes",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9173552542/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-7355-254-2",
+            "copies": 5
+        },
+        {
+            "id": 15,
+            "title": "Udda verklighet",
+            "author": "Nene Ormes",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9173551406/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-7355-140-6",
+            "copies": 5
+        },
+        {
+            "id": 16,
+            "title": "Nekromantikerns krig",
+            "author": "Nick Perumov  2,  Mittelspiel",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186437593/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-86437-59-3",
+            "copies": 5
+        },
+        {
+            "id": 17,
+            "title": "Gröna ängelns torn",
+            "author": "Tad Williams",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132323778/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy"
+            ],
+            "ISBN": "91-32-32377-8",
+            "copies": 5
+        },
+        {
+            "id": 18,
+            "title": "Det gyllene språnget : roman",
+            "author": "Bertil Mårtensson",
+            "genre": [],
+            "ISBN": "91-7780-081-8",
+            "copies": 5
+        },
+        {
+            "id": 19,
+            "title": "Obeliskporten",
+            "author": "N K. Jemisin",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9113094254/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Science fiction",
+                "Fantasy"
+            ],
+            "ISBN": "9789113094250",
+            "copies": 5
+        },
+        {
+            "id": 20,
+            "title": "Ringens brödraskap",
+            "author": "JR.R. Tolkien",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9113044915/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy",
+                "Romaner"
+            ],
+            "ISBN": "9789113044910",
+            "copies": 5
+        },
+        {
+            "id": 21,
+            "title": "Den femte årstiden",
+            "author": "N K. Jemisin",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9113087266/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Science fiction",
+                "Fantasy"
+            ],
+            "ISBN": "9789113087269",
+            "copies": 5
+        },
+        {
+            "id": 22,
+            "title": "Ancillary sword",
+            "author": "Ann Leckie",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0356502414/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Romaner",
+                "Fantasy",
+                "Science fiction"
+            ],
+            "ISBN": "9780356502410",
+            "copies": 5
+        },
+        {
+            "id": 23,
+            "title": "Vingar av glas",
+            "author": "Sofie Trinh Johansson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9187015137/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Rysare",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-87015-13-7",
+            "copies": 5
+        },
+        {
+            "id": 24,
+            "title": "Främmande folk och förtrollade skogar :  trolska berättelser",
+            "author": "samlade och presenterade av Rickard Berghorn",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9187619008/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Sagor",
+                "Fantasy",
+                "Skönlitteratur",
+                "Noveller",
+                "Antologier"
+            ],
+            "ISBN": "978-91-87619-00-7",
+            "copies": 5
+        },
+        {
+            "id": 25,
+            "title": "Dit ingen annan går",
+            "author": "Anders Torstensson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176590151/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "9789176590157",
+            "copies": 5
+        },
+        {
+            "id": 26,
+            "title": "De döda fruktar födelsen :  [mörk fantasy]",
+            "author": "Pål Eggert",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9197696870/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "978-91-976968-7-6",
+            "copies": 5
+        },
+        {
+            "id": 27,
+            "title": "Drömgångare",
+            "author": "Samantha Shannon",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9174992562/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-7499-256-2",
+            "copies": 5
+        },
+        {
+            "id": 28,
+            "title": "Munins skärvor",
+            "author": "Oskar Källner",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=919794288X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Fantasy",
+                "Science fiction",
+                "Skönlitteratur",
+                "Noveller"
+            ],
+            "ISBN": "91-979428-8-X",
+            "copies": 5
+        },
+        {
+            "id": 29,
+            "title": "Judas barn",
+            "author": "[Markus Heitz]",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9187219085/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-87219-08-5",
+            "copies": 5
+        },
+        {
+            "id": 30,
+            "title": "Nekromantikerns krig",
+            "author": "Nick Perumov 1, Debut",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=918643716X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-86437-16-X",
+            "copies": 5
+        },
+        {
+            "id": 31,
+            "title": "Stenhimlen",
+            "author": "N K. Jemisin",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9113094238/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Science fiction",
+                "Fantasy"
+            ],
+            "ISBN": "9789113094236",
+            "copies": 5
+        },
+        {
+            "id": 32,
+            "title": "Halvblod",
+            "author": "[Sofie Trinh Johansson]",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=918701503X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Rysare",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "91-87015-03-X",
+            "copies": 5
+        },
+        {
+            "id": 33,
+            "title": "Leva älska brinna dö",
+            "author": "Sofie Trinh Johansson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9187015706/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Skräck",
+                "Romaner"
+            ],
+            "ISBN": "9789187015700",
+            "copies": 5
+        },
+        {
+            "id": 34,
+            "title": "Demonologi för nybörjare",
+            "author": "Caroline L Jensen.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9187049775/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner"
+            ],
+            "ISBN": "9789187049774",
+            "copies": 5
+        },
+        {
+            "id": 35,
+            "title": "Nattpatrullen : första boken",
+            "author": "Sergej Lukjanenko",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186437119/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "978-91-86437-11-4",
+            "copies": 5
+        },
+        {
+            "id": 36,
+            "title": "Drakvinter",
+            "author": "Margaret Weis & Tracy Hickman",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=913232281X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy"
+            ],
+            "ISBN": "91-32-32281-X",
+            "copies": 5
+        },
+        {
+            "id": 37,
+            "title": "Lilla syster Kanin och alla hennes vänner",
+            "author": "Ulf Nilsson, Eva Eriksson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9163854244/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9163854244",
+            "copies": 0
+        },
+        {
+            "id": 38,
+            "title": "Gullivers resor",
+            "author": "Jonathan Swift",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "9789113070315",
+            "copies": 5
+        },
+        {
+            "id": 39,
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177815319/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Dystopier"
+            ],
+            "ISBN": "9789177815310",
+            "copies": 451
+        },
+        {
+            "id": 40,
+            "title": "Tusen och en natt",
+            "author": "i urval och bearbetning av Anna Wahlenberg",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-20-06868-9",
+            "copies": 5
+        },
+        {
+            "id": 41,
+            "title": "Robin Hood",
+            "author": "Howard Pyle",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176631362/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Mellanåldersböcker",
+                "Klassiker",
+                "Äventyrsböcker",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9789176631362",
+            "copies": 5
+        },
+        {
+            "id": 42,
+            "title": "Kulla-Gulla håller sitt löfte",
+            "author": "Martha Sandwall-Bergström",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9178037298/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Barn- och ungdomslitteratur",
+                "Mellanåldersböcker",
+                "Klassiker"
+            ],
+            "ISBN": "9789178037292",
+            "copies": 2
+        },
+        {
+            "id": 43,
+            "title": "Metro 2034 : försvaret av Sevastopolskaja",
+            "author": "Dmitrij Gluchovskij",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186437666/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Dystopier",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "9789186437664",
+            "copies": 5
+        },
+        {
+            "id": 44,
+            "title": "Invasion",
+            "author": "Dean Koontz",
+            "lang": "Svenska",
+            "genre": [
+                "Science fiction",
+                "Thrillers",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "978-91-7002-741-3",
+            "copies": 5
+        },
+        {
+            "id": 45,
+            "title": "Metro 2033 : den sista tillflykten",
+            "author": "Dimitrij Gluchovskij",
+            "lang": "Svenska",
+            "genre": [
+                "Dystopier"
+            ],
+            "ISBN": "9789187219696",
+            "copies": 5
+        },
+        {
+            "id": 46,
+            "title": "Stiftelsetrilogin",
+            "author": "Isaac Asimov",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9127163202/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Science fiction",
+                "Framtidsskildringar",
+                "Romaner"
+            ],
+            "ISBN": "9789127163201",
+            "copies": 5
+        },
+        {
+            "id": 47,
+            "title": "Avgrund",
+            "author": "Jeff VanderMeer",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=918722285X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Science fiction",
+                "Thrillers",
+                "Romaner"
+            ],
+            "ISBN": "9789187222856",
+            "copies": 5
+        },
+        {
+            "id": 48,
+            "title": "Varma kroppar",
+            "author": "Isaac Marion",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186843249/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-86843-24-9",
+            "copies": 9
+        },
+        {
+            "id": 49,
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9119310218/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-1-931021-8",
+            "copies": 4
+        },
+        {
+            "id": 50,
+            "title": "Sällsamma historier",
+            "author": "Edgar Allan Poe",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-29-56179-5",
+            "copies": 5
+        },
+        {
+            "id": 51,
+            "title": "Nattvakt",
+            "author": "Kit Whitfield",
+            "lang": "Svenska",
+            "genre": [
+                "Thrillers",
+                "Science fiction",
+                "Skönlitteratur",
+                "Romaner"
+            ],
+            "ISBN": "978-91-7525-007-6",
+            "copies": 5
+        },
+        {
+            "id": 52,
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176631265/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Mellanåldersböcker",
+                "Klassiker",
+                "Rysare",
+                "Dagböcker",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9789176631263",
+            "copies": 1
+        },
+        {
+            "id": 53,
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176631230/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Mellanåldersböcker",
+                "Klassiker",
+                "Rysare",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9789176631232",
+            "copies": 5
+        },
+        {
+            "id": 54,
+            "title": "Bron till Terabitia",
+            "author": "Katherine Paterson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9150205544/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Mellanåldersböcker"
+            ],
+            "ISBN": "91-502-0554-4",
+            "copies": 5
+        },
+        {
+            "id": 55,
+            "title": "Kupoler av eld",
+            "author": "David Eddings",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132321678/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy"
+            ],
+            "ISBN": "91-32-32167-8",
+            "copies": 7
+        },
+        {
+            "id": 56,
+            "title": "Profetians tid",
+            "author": "David Eddings",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132432828/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy"
+            ],
+            "ISBN": "91-32-43282-8",
+            "copies": 5
+        },
+        {
+            "id": 57,
+            "title": "Otherland",
+            "author": "Tad Williams",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132322828/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Fantasy"
+            ],
+            "ISBN": "91-32-32282-8",
+            "copies": 15
+        },
+        {
+            "id": 58,
+            "title": "Momo eller Kampen om tiden : en sagoroman",
+            "author": "Michael Ende",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9150216546/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "978-91-502-1654-7",
+            "copies": 2
+        },
+        {
+            "id": 59,
+            "title": "Oliver Twist",
+            "author": "Anne de Graaf",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-7195-063-X",
+            "copies": 3
+        }
+    ],
+    "staff": [
+        {
+            "id": 5,
+            "name": "Florence Stokes",
+            "email": "Horace50@gmail.com",
+            "phone": "(832) 502-2080 x73152",
+            "role": "librarian",
+            "dateOfBirth": "1985-08-12T08:46:47.909Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/ganserene_128.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Kate Bode",
+            "email": "Dusty_Rodriguez@hotmail.com",
+            "phone": "(683) 364-6626",
+            "role": "manager",
+            "dateOfBirth": "1989-05-13T14:12:58.208Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/bublienko_128.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Jeton Mustini",
+            "email": "jeton.mustini@hotmail.com",
+            "phone": "(880) 785-3345",
+            "role": "librarian",
+            "dateOfBirth": "1990-10-24T01:11:26.670Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/calebjoyce_128.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Joakim Flink",
+            "email": "joakim.flink@hotmail.com",
+            "phone": "952-531-7444",
+            "role": "librarian",
+            "dateOfBirth": "1956-11-06T11:03:53.873Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/gmourier_128.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Carlos Corwin",
+            "email": "Fletcher.Cartwright41@hotmail.com",
+            "phone": "(284) 396-6500 x2737",
+            "role": "librarian",
+            "dateOfBirth": "1999-03-16T18:26:12.841Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/sindresorhus_128.jpg"
+        }
+    ],
+    "customers": [
+        {
+            "id": 20,
+            "name": "Miss Thomas Kling",
+            "email": "Kellie_Kunde1@yahoo.com",
+            "password": "Bt9BnesdD3IW3tb",
+            "timestamp": "2021-05-05T08:45:23.515Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/mds_128.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Mrs. Brandon Nienow",
+            "email": "Afton_Champlin@gmail.com",
+            "password": "l5zckkComJGllkn",
+            "timestamp": "2021-05-04T21:26:03.962Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/kaysix_dizzy_128.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Desiree Kuhn",
+            "email": "Brady.Kutch24@hotmail.com",
+            "password": "DmqRhyqtlgqJQ7l",
+            "timestamp": "2021-05-05T04:02:13.518Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/lisovsky_128.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Ed Ebert IV",
+            "email": "Jaqueline.Brakus@hotmail.com",
+            "password": "NaYmtLbAXEdD8z8",
+            "timestamp": "2021-05-04T13:01:56.783Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/ffbel_128.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Jon Schimmel",
+            "email": "Brandi_Schuppe@yahoo.com",
+            "password": "UQsYRBMg3pUD8NQ",
+            "timestamp": "2021-05-04T23:21:04.274Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/mbilalsiddique1_128.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Samuel Raynor",
+            "email": "Albert74@gmail.com",
+            "password": "jLAdf49qDA9v8jS",
+            "timestamp": "2021-05-05T09:21:49.278Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/raquelwilson_128.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Hattie Gorczany",
+            "email": "Shanna.Hauck@hotmail.com",
+            "password": "LHUjVVZ32Snd_gp",
+            "timestamp": "2021-05-04T15:19:45.379Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/necodymiconer_128.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Randall Willms",
+            "email": "Monserrat.Dibbert@hotmail.com",
+            "password": "IOw4himmipYG3dR",
+            "timestamp": "2021-05-04T13:30:15.219Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/thierrymeier__128.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Ramona Farrell",
+            "email": "Gwen_Nitzsche39@yahoo.com",
+            "password": "J9IWPxIewm8e8N7",
+            "timestamp": "2021-05-04T11:21:57.595Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/carlosjgsousa_128.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Vernon Kunze DDS",
+            "email": "Maximillia3@yahoo.com",
+            "password": "ODcRSjVVgpsUnLM",
+            "timestamp": "2021-05-05T06:24:05.906Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/allfordesign_128.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Timothy Feeney",
+            "email": "Ewald_Reichel85@gmail.com",
+            "password": "K7tTwETIhwSRO9x",
+            "timestamp": "2021-05-05T08:38:13.317Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/yassiryahya_128.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Angela Schimmel",
+            "email": "Laverne.Harvey@yahoo.com",
+            "password": "bHO_3U3aPM_B38Q",
+            "timestamp": "2021-05-04T16:40:52.528Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/bpartridge_128.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Raquel Feeney DDS",
+            "email": "Katherine.Corkery82@hotmail.com",
+            "password": "K_Epi0MMr6cEE9f",
+            "timestamp": "2021-05-05T00:39:43.644Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/guillemboti_128.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Mr. Rodolfo Thiel",
+            "email": "Loyal.Price@gmail.com",
+            "password": "M8R2S84QbWtjISr",
+            "timestamp": "2021-05-04T10:30:16.658Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/privetwagner_128.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Tony Moore",
+            "email": "Cleta_Gorczany4@yahoo.com",
+            "password": "ye_jzqE9ZLnajDQ",
+            "timestamp": "2021-05-04T22:59:43.511Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/kuldarkalvik_128.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Nick Ledner PhD",
+            "email": "Isaac35@gmail.com",
+            "password": "Akvd1ptbOFe6qNK",
+            "timestamp": "2021-05-04T23:56:16.073Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/larrygerard_128.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Bethany Wiza II",
+            "email": "Fiona62@hotmail.com",
+            "password": "MTGngjpLxxCzPjX",
+            "timestamp": "2021-05-04T16:35:16.435Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/fotomagin_128.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Chad Cruickshank",
+            "email": "Marisa_Mosciski@yahoo.com",
+            "password": "OvOXzL6oAR4k6Nw",
+            "timestamp": "2021-05-04T18:48:28.705Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/krystalfister_128.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Angel Ward",
+            "email": "Noble.Nader@gmail.com",
+            "password": "oV0GTN1rDsdeaJk",
+            "timestamp": "2021-05-05T09:42:47.550Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/davidsasda_128.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Ms. Donnie Hermiston",
+            "email": "Ruthe64@hotmail.com",
+            "password": "2lX87ev2njItUMg",
+            "timestamp": "2021-05-05T04:38:05.370Z",
+            "avatar": "https://cdn.fakercloud.com/avatars/allagringaus_128.jpg"
+        }
+    ],
+    "reservations": [
+        {
+            "id": 50,
+            "customerId": 13,
+            "books": [
+                {
+                    "bookID": 14,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 37,
+            "timestamp": "2021-05-04T20:14:58.412Z"
+        },
+        {
+            "id": 1,
+            "customerId": 15,
+            "books": [
+                {
+                    "bookID": 15,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 30,
+            "timestamp": "2021-05-05T06:37:46.054Z"
+        },
+        {
+            "id": 2,
+            "customerId": 9,
+            "books": [
+                {
+                    "bookID": 11,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 1,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 25,
+            "timestamp": "2021-05-05T08:12:02.947Z"
+        },
+        {
+            "id": 3,
+            "customerId": 7,
+            "books": [
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 22,
+            "timestamp": "2021-05-04T19:29:53.217Z"
+        },
+        {
+            "id": 4,
+            "customerId": 15,
+            "books": [
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 15,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 12,
+            "timestamp": "2021-05-04T21:19:04.597Z"
+        },
+        {
+            "id": 5,
+            "customerId": 11,
+            "books": [
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 1,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 34,
+            "timestamp": "2021-05-04T18:56:53.581Z"
+        },
+        {
+            "id": 6,
+            "customerId": 5,
+            "books": [
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 14,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 41,
+            "timestamp": "2021-05-04T17:35:33.482Z"
+        },
+        {
+            "id": 7,
+            "customerId": 16,
+            "books": [
+                {
+                    "bookID": 2,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 34,
+            "timestamp": "2021-05-04T23:27:46.068Z"
+        },
+        {
+            "id": 8,
+            "customerId": 13,
+            "books": [
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 19,
+            "timestamp": "2021-05-04T16:27:55.433Z"
+        },
+        {
+            "id": 9,
+            "customerId": 4,
+            "books": [
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 43,
+            "timestamp": "2021-05-05T07:32:00.500Z"
+        },
+        {
+            "id": 10,
+            "customerId": 6,
+            "books": [
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 14,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 50,
+            "timestamp": "2021-05-05T09:25:48.190Z"
+        },
+        {
+            "id": 11,
+            "customerId": 15,
+            "books": [
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 44,
+            "timestamp": "2021-05-04T19:49:54.923Z"
+        },
+        {
+            "id": 12,
+            "customerId": 3,
+            "books": [
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 15,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 39,
+            "timestamp": "2021-05-04T17:35:25.050Z"
+        },
+        {
+            "id": 13,
+            "customerId": 3,
+            "books": [
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 11,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 38,
+            "timestamp": "2021-05-04T18:53:47.975Z"
+        },
+        {
+            "id": 14,
+            "customerId": 16,
+            "books": [
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 1,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 31,
+            "timestamp": "2021-05-04T14:25:43.416Z"
+        },
+        {
+            "id": 15,
+            "customerId": 16,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 35,
+            "timestamp": "2021-05-04T11:48:14.623Z"
+        },
+        {
+            "id": 16,
+            "customerId": 12,
+            "books": [
+                {
+                    "bookID": 2,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 38,
+            "timestamp": "2021-05-05T07:25:05.113Z"
+        },
+        {
+            "id": 17,
+            "customerId": 9,
+            "books": [
+                {
+                    "bookID": 14,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 46,
+            "timestamp": "2021-05-04T20:49:32.314Z"
+        },
+        {
+            "id": 18,
+            "customerId": 20,
+            "books": [
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 13,
+            "timestamp": "2021-05-05T03:22:43.230Z"
+        },
+        {
+            "id": 19,
+            "customerId": 1,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 39,
+            "timestamp": "2021-05-04T14:52:51.066Z"
+        },
+        {
+            "id": 20,
+            "customerId": 11,
+            "books": [
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 11,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 14,
+            "timestamp": "2021-05-05T01:00:05.635Z"
+        },
+        {
+            "id": 21,
+            "customerId": 18,
+            "books": [
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 39,
+            "timestamp": "2021-05-04T18:44:04.017Z"
+        },
+        {
+            "id": 22,
+            "customerId": 20,
+            "books": [
+                {
+                    "bookID": 2,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 49,
+            "timestamp": "2021-05-05T10:06:11.089Z"
+        },
+        {
+            "id": 23,
+            "customerId": 4,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 45,
+            "timestamp": "2021-05-05T01:24:15.801Z"
+        },
+        {
+            "id": 24,
+            "customerId": 6,
+            "books": [
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 11,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 13,
+            "timestamp": "2021-05-05T01:24:46.727Z"
+        },
+        {
+            "id": 25,
+            "customerId": 2,
+            "books": [
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 10,
+            "timestamp": "2021-05-04T21:16:45.523Z"
+        },
+        {
+            "id": 26,
+            "customerId": 13,
+            "books": [
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 46,
+            "timestamp": "2021-05-04T12:37:21.673Z"
+        },
+        {
+            "id": 27,
+            "customerId": 17,
+            "books": [
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 10,
+            "timestamp": "2021-05-04T14:35:31.442Z"
+        },
+        {
+            "id": 28,
+            "customerId": 15,
+            "books": [
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 22,
+            "timestamp": "2021-05-04T17:21:34.904Z"
+        },
+        {
+            "id": 29,
+            "customerId": 7,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 48,
+            "timestamp": "2021-05-04T20:34:45.741Z"
+        },
+        {
+            "id": 30,
+            "customerId": 17,
+            "books": [
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 1,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 47,
+            "timestamp": "2021-05-05T10:05:32.247Z"
+        },
+        {
+            "id": 31,
+            "customerId": 5,
+            "books": [
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 15,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 13,
+            "timestamp": "2021-05-04T20:05:41.462Z"
+        },
+        {
+            "id": 32,
+            "customerId": 9,
+            "books": [
+                {
+                    "bookID": 1,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 14,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 1,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 20,
+            "timestamp": "2021-05-05T05:53:13.376Z"
+        },
+        {
+            "id": 33,
+            "customerId": 13,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 2,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 31,
+            "timestamp": "2021-05-04T11:35:13.308Z"
+        },
+        {
+            "id": 34,
+            "customerId": 7,
+            "books": [
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 36,
+            "timestamp": "2021-05-04T18:20:25.648Z"
+        },
+        {
+            "id": 35,
+            "customerId": 15,
+            "books": [
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 25,
+            "timestamp": "2021-05-05T06:29:35.192Z"
+        },
+        {
+            "id": 36,
+            "customerId": 16,
+            "books": [
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 48,
+            "timestamp": "2021-05-05T08:49:22.732Z"
+        },
+        {
+            "id": 37,
+            "customerId": 13,
+            "books": [
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 45,
+            "timestamp": "2021-05-05T01:39:28.795Z"
+        },
+        {
+            "id": 38,
+            "customerId": 1,
+            "books": [
+                {
+                    "bookID": 15,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 6,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 28,
+            "timestamp": "2021-05-04T12:15:47.880Z"
+        },
+        {
+            "id": 39,
+            "customerId": 2,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 45,
+            "timestamp": "2021-05-04T21:32:28.547Z"
+        },
+        {
+            "id": 40,
+            "customerId": 17,
+            "books": [
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-10-25"
+                }
+            ],
+            "totalPrice": 27,
+            "timestamp": "2021-05-04T20:53:40.979Z"
+        },
+        {
+            "id": 41,
+            "customerId": 1,
+            "books": [
+                {
+                    "bookID": 14,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 2,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 24,
+            "timestamp": "2021-05-04T22:07:55.476Z"
+        },
+        {
+            "id": 42,
+            "customerId": 18,
+            "books": [
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 22,
+            "timestamp": "2021-05-04T15:16:06.546Z"
+        },
+        {
+            "id": 43,
+            "customerId": 6,
+            "books": [
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 16,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-10-01"
+                }
+            ],
+            "totalPrice": 50,
+            "timestamp": "2021-05-05T05:22:56.521Z"
+        },
+        {
+            "id": 44,
+            "customerId": 4,
+            "books": [
+                {
+                    "bookID": 7,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 13,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 14,
+            "timestamp": "2021-05-05T06:18:43.789Z"
+        },
+        {
+            "id": 45,
+            "customerId": 17,
+            "books": [
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 4,
+                    "returnDate": "2022-10-12"
+                }
+            ],
+            "totalPrice": 35,
+            "timestamp": "2021-05-05T06:51:53.268Z"
+        },
+        {
+            "id": 46,
+            "customerId": 11,
+            "books": [
+                {
+                    "bookID": 1,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 29,
+            "timestamp": "2021-05-05T07:52:54.038Z"
+        },
+        {
+            "id": 47,
+            "customerId": 13,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-19"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 9,
+                    "returnDate": "2022-10-12"
+                },
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 11,
+                    "returnDate": "2022-09-12"
+                }
+            ],
+            "totalPrice": 48,
+            "timestamp": "2021-05-04T19:38:16.307Z"
+        },
+        {
+            "id": 48,
+            "customerId": 1,
+            "books": [
+                {
+                    "bookID": 5,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 8,
+                    "returnDate": "2022-09-12"
+                },
+                {
+                    "bookID": 15,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 14,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 33,
+            "timestamp": "2021-05-04T16:14:33.374Z"
+        },
+        {
+            "id": 49,
+            "customerId": 15,
+            "books": [
+                {
+                    "bookID": 15,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 10,
+                    "returnDate": "2022-10-25"
+                },
+                {
+                    "bookID": 12,
+                    "returnDate": "2022-10-01"
+                },
+                {
+                    "bookID": 3,
+                    "returnDate": "2022-09-19"
+                }
+            ],
+            "totalPrice": 37,
+            "timestamp": "2021-05-04T22:07:21.890Z"
+        }
+    ]
+}
