@@ -1,769 +1,2212 @@
 {
     "books": [
         {
-            "id": 0,
-            "title": "Unga kvinnor",
-            "author": "Louisa May Alcott",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9179752098/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 140,
+            "title": "Svenska timmar - litteraturen",
+            "author": "Svante Skoglund",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9140673375/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "978-91-40-67337-4",
+            "copies": 11
+        },
+        {
+            "id": 141,
+            "title": "Read & Catch Up Update  [Kombinerat material] :  engelska A",
+            "author": "Någon, nånstans, nån gång.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9144009135/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "sweeng",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "978-91-44-00913-1",
+            "copies": 11
+        },
+        {
+            "id": 142,
+            "title": "Iliaden",
+            "author": "Per Holmström",
             "lang": "Svenska",
             "genre": [
-                "Ungdomsböcker",
-                "Klassiker",
-                "Barn- och ungdomslitteratur"
+                "Akademisk"
             ],
-            "ISBN": "9789179752095",
-            "copies": 5
+            "ISBN": "91-7119-909-8",
+            "copies": 11
         },
         {
-            "id": 1,
-            "title": "Dödfödd",
-            "author": "Pål Eggert",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9188185354/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Urban fantasy"
-            ],
-            "ISBN": "9789188185358",
-            "copies": 5
-        },
-        {
-            "id": 2,
-            "title": "Rymdskräck",
-            "author": "Jonny Berg och Sofia Albertsson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9189115333/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Science fiction",
-                "Skräck",
-                "Noveller"
-            ],
-            "ISBN": "9789189115330",
-            "copies": 5
-        },
-        {
-            "id": 3,
-            "title": "I dödsskuggans land",
-            "author": "Alden Bell",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9186845241/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Rysare",
-                "Skönlitteratur",
-                "Romaner"
-            ],
-            "ISBN": "91-86845-24-1",
-            "copies": 5
-        },
-        {
-            "id": 4,
-            "title": "Dune",
-            "author": "Frank Herbert",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9178934753/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Romaner",
-                "Science fiction"
-            ],
-            "ISBN": "9789178934751",
-            "copies": 5
-        },
-        {
-            "id": 5,
-            "title": "Kleptomania",
-            "author": "Kristina Hård",
-            "genre": [],
-            "ISBN": "978-91-7599-104-7",
-            "copies": 5
-        },
-        {
-            "id": 6,
-            "title": "The well of ascension",
-            "author": "Brandon Sanderson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=0765316889/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 143,
+            "title": "Wild swans :  three daughters of China",
+            "author": "Jung Chang",
             "lang": "Engelska",
-            "genre": [],
-            "ISBN": "978-0-7653-1688-2",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "0-00-654599-8",
+            "copies": 14
+        },
+        {
+            "id": 144,
+            "title": "Söka svar :  religionskunskap kurs A & B",
+            "author": "Malin Mattsson Flennegård, Leif Eriksson, Uriel Hedengren",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9147092556/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-47-09255-6",
+            "copies": 2
+        },
+        {
+            "id": 145,
+            "title": "Decamerone",
+            "author": "Giovanni Boccaccio",
+            "lang": "Svenska",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-44-61131-5",
+            "copies": 7
+        },
+        {
+            "id": 146,
+            "title": "Teman till historien",
+            "author": "Bengt Åke Häger  1,  Före 1789",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-44-20221-0",
+            "copies": 9
+        },
+        {
+            "id": 147,
+            "title": "Fröken Julie ; Ett drömspel",
+            "author": "August Strindberg",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-1-921362-X",
+            "copies": 1
+        },
+        {
+            "id": 148,
+            "title": "Spela roll :  samhällskunskap 50 p",
+            "author": "Fredrik Harstad, Sandra Heaver och Jens Öberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9140673138/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-40-67313-8",
+            "copies": 11
+        },
+        {
+            "id": 149,
+            "title": "Källan :  svenska för gymnasieskolan, kurs A och B.  Litteraturhistoria",
+            "author": "Anita Kretz",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-622-1581-7",
+            "copies": 2
+        },
+        {
+            "id": 150,
+            "title": "Nya Alla tiders historia",
+            "author": "Bergström, Löwgren, Almgren",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-40-61289-9",
+            "copies": 13
+        },
+        {
+            "id": 151,
+            "title": "Engelsk-svensk ordbok på Agatha Christie",
+            "author": "Pernilla Hansén",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9197311413/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "sweeng",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-973114-1-3",
+            "copies": 3
+        },
+        {
+            "id": 152,
+            "title": "Geography :  realms, regions, and concepts",
+            "author": "H J. de Blij, Peter O. Muller",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0471580899/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "0-471-58089-9",
+            "copies": 9
+        },
+        {
+            "id": 153,
+            "title": "Perspektiv på samhället 1-3",
+            "author": "Johan Eriksson, Peggy Thornström & Jenny Kesselfors",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9188229076/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "978-91-88229-07-6",
+            "copies": 11
+        },
+        {
+            "id": 154,
+            "title": "Nya tidens världshistoria",
+            "author": "R R. Palmer, Joel Colton",
+            "lang": "Svenska",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-21-15531-3",
+            "copies": 7
+        },
+        {
+            "id": 155,
+            "title": "Intimate kill",
+            "author": "Margaret Yorke",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9127571181/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-27-57118-1",
+            "copies": 1
+        },
+        {
+            "id": 156,
+            "title": "Med kungen på Eriksgata",
+            "author": "Stig Hadenius och Birgit Janrup",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": [],
+            "copies": 6
+        },
+        {
+            "id": 157,
+            "title": "Antologi för gymnasieskolan",
+            "author": "Dick Widing, Sara Lidman",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "91-27-59180-8",
+            "copies": 13
+        },
+        {
+            "id": 158,
+            "title": "Samband historia",
+            "author": "Niklas Ericsson, Magnus Hansson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9162272403/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "978-91-622-7240-1",
+            "copies": 9
+        },
+        {
+            "id": 159,
+            "title": "Nineteen eighty-four",
+            "author": "George Orwell",
+            "lang": "Engelska",
+            "genre": [
+                "Akademisk"
+            ],
+            "ISBN": "0-582-53658-8",
             "copies": 5
         },
         {
-            "id": 7,
-            "title": "Om jag kunde drömma",
-            "author": "Stephenie Meyer",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9132211562/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
+            "id": 80,
+            "title": "Ōoku : the inner chambers. Vol. 4",
+            "author": "Fumi Yoshinaga",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1421531690/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
             "genre": [
+                "Tecknade serier",
+                "Manga",
+                "Skönlitteratur",
+                "Gamers"
+            ],
+            "ISBN": "9781421531694",
+            "copies": 9
+        },
+        {
+            "id": 81,
+            "title": "Eden :  it's an endless world!",
+            "author": "Hiroki Endo",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1593077025/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Gamers"
+            ],
+            "ISBN": "1-59307-702-5",
+            "copies": 10
+        },
+        {
+            "id": 82,
+            "title": "Ōoku : the inner chambers. Vol. 2",
+            "author": "Fumi Yoshinaga",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1421527480/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Skönlitteratur",
+                "Tecknade serier",
+                "Manga",
+                "Gamers"
+            ],
+            "ISBN": "9781421527482",
+            "copies": 14
+        },
+        {
+            "id": 83,
+            "title": "Ōoku : the inner chambers. Vol. 1",
+            "author": "Fumi Yoshinaga",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1421527472/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Manga",
+                "Tecknade serier",
+                "Gamers"
+            ],
+            "ISBN": "9781421527475",
+            "copies": 2
+        },
+        {
+            "id": 84,
+            "title": "Ayako",
+            "author": "Osamu Tezuka",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1934287512/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Gamers"
+            ],
+            "ISBN": "978-1-934287-51-4",
+            "copies": 5
+        },
+        {
+            "id": 85,
+            "title": "Carole & Tuesday art",
+            "author": "Någon, nånstans, nån gång.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=197531302X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=on1151981016",
+            "lang": "Engelska",
+            "genre": [
+                "Tecknade serier",
+                "Manga",
+                "Science fiction",
                 "Ungdomsböcker",
+                "Barn- och ungdomslitteratur",
+                "Gamers"
+            ],
+            "ISBN": "9781975313029",
+            "copies": 2
+        },
+        {
+            "id": 86,
+            "title": "The witch and the beast Kousuke Satake",
+            "author": "Någon, nånstans, nån gång.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1646510240/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Tecknade serier",
+                "Manga",
                 "Unga vuxna",
-                "Barn- och ungdomslitteratur"
+                "Barn- och ungdomslitteratur",
+                "Gamers"
             ],
-            "ISBN": "9789132211560",
-            "copies": 5
+            "ISBN": "9781646510245",
+            "copies": 8
         },
         {
-            "id": 8,
-            "title": "Snösommar",
-            "author": "Kristina Hård",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9175990962/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 87,
+            "title": "Quetzels torn",
+            "author": "Chris McDowall, Patrick Stuart, Ben Milton, Karl Stjernberg",
             "lang": "Svenska",
             "genre": [
-                "Dystopier",
+                "Gamers"
+            ],
+            "ISBN": "9789188805041",
+            "copies": 14
+        },
+        {
+            "id": 88,
+            "title": "Cyberpunk red : the roleplaying game of the dark future",
+            "author": "Mike Pondsmith",
+            "lang": "Engelska",
+            "genre": [
+                "Regler",
+                "Handböcker, manualer etc",
+                "Gamers"
+            ],
+            "ISBN": "9781950911066",
+            "copies": 10
+        },
+        {
+            "id": 89,
+            "title": "Chock. Åter från graven",
+            "author": "Ingen vet",
+            "lang": "Svenska",
+            "genre": [
+                "Gamers"
+            ],
+            "ISBN": "9789198541885",
+            "copies": 3
+        },
+        {
+            "id": 90,
+            "title": "Ōoku : the inner chambers. Vol. 5",
+            "author": "Fumi Yoshinaga",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1421536692/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Tecknade serier",
+                "Manga",
+                "Skönlitteratur",
+                "Gamers"
+            ],
+            "ISBN": "9781421536699",
+            "copies": 7
+        },
+        {
+            "id": 91,
+            "title": "Eden :  it's an endless world!",
+            "author": "Hiroki Endo",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1593076347/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Gamers"
+            ],
+            "ISBN": "1-59307-634-7",
+            "copies": 0
+        },
+        {
+            "id": 92,
+            "title": "Fire punch, vol. 1",
+            "author": "Ingen vet",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1421597179/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Gamers"
+            ],
+            "ISBN": "9781421597171",
+            "copies": 0
+        },
+        {
+            "id": 93,
+            "title": "Venus in the blind spot",
+            "author": "Junji Ito",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1974715477/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Tecknade serier",
                 "Skräck",
-                "Fantasy",
-                "Romaner"
+                "Gamers"
             ],
-            "ISBN": "9789175990965",
-            "copies": 5
+            "ISBN": "9781974715473",
+            "copies": 1
         },
         {
-            "id": 9,
-            "title": "The hero of ages",
-            "author": "Brandon Sanderson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=0765316897/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Engelska",
-            "genre": [],
-            "ISBN": "978-0-7653-1689-9",
-            "copies": 5
-        },
-        {
-            "id": 10,
-            "title": "Crooked Kingdom",
-            "author": "Leigh Bardugo",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=1627792139/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 94,
+            "title": "Slocknad stjärna : Yndaros : tredje delen i krönikan om törnetronen",
+            "author": "Martin Grip, Mattias Johnsson, Mattias Lilja",
+            "lang": "Svenska",
             "genre": [
-                "Young adult fiction",
-                "Fantasy fiction",
-                "Juvenile works",
-                "Fantasy",
-                "Barn- och ungdomslitteratur"
+                "Rollspel",
+                "Gamers"
             ],
-            "ISBN": "9781627792134",
-            "copies": 5
+            "ISBN": "9789187915420",
+            "copies": 10
         },
         {
-            "id": 11,
-            "title": "Borde vara död",
-            "author": "Pål Eggert",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9173553034/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 95,
+            "title": "Den sista najaden : ett äventyr till Oktoberlandet",
+            "author": "Nils Hintze",
+            "lang": "Svenska",
             "genre": [
-                "Rysare",
-                "Skönlitteratur",
-                "Romaner"
-            ],
-            "ISBN": "91-7355-303-4",
-            "copies": 5
-        },
-        {
-            "id": 12,
-            "title": "Ninth house",
-            "author": "Leigh Bardugo",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=1473227976/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Engelska",
-            "genre": [
-                "Fantasy",
+                "Steampunk",
                 "Urban fantasy",
-                "Skräck"
+                "Gamers"
             ],
-            "ISBN": "9781473227972",
-            "copies": 5
+            "ISBN": "9789187222498",
+            "copies": 4
         },
         {
-            "id": 13,
-            "title": "The final empire",
-            "author": "Brandon Sanderson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=0575089911/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 96,
+            "title": "Dungeons & dragons. Dungeon master's guide",
+            "author": "Någon, nånstans, nån gång.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0786965622/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Engelska",
             "genre": [
                 "Fantasy",
-                "Romaner",
-                "Fantasy fiction"
+                "Regler",
+                "Gamers"
             ],
-            "ISBN": "9780575089914",
-            "copies": 5
+            "ISBN": "9780786965625",
+            "copies": 11
         },
         {
-            "id": 14,
-            "title": "Särskild",
-            "author": "Nene Ormes",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9173552542/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 97,
+            "title": "Dune : adventures in the Imperium, the role playing game",
+            "author": "Nathan Dowdell",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1912743590/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=on1260698860",
+            "lang": "Engelska",
             "genre": [
-                "Fantasy",
-                "Skönlitteratur",
-                "Romaner"
+                "Handböcker, manualer etc",
+                "Regler",
+                "Gamers"
             ],
-            "ISBN": "91-7355-254-2",
-            "copies": 5
+            "ISBN": "9781912743599",
+            "copies": 3
         },
         {
-            "id": 15,
-            "title": "Udda verklighet",
-            "author": "Nene Ormes",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9173551406/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 98,
+            "title": "Red carnations on a black grave",
+            "author": "by Catherine Ramen",
+            "lang": "Engelska",
             "genre": [
-                "Fantasy",
-                "Skönlitteratur",
-                "Romaner"
+                "Spel",
+                "Gamers"
             ],
-            "ISBN": "91-7355-140-6",
-            "copies": 5
+            "ISBN": "9780991788804",
+            "copies": 13
         },
         {
-            "id": 16,
-            "title": "Nekromantikerns krig",
-            "author": "Nick Perumov  2,  Mittelspiel",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9186437593/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 160,
+            "title": "Draken med de röda ögonen",
+            "author": "Astrid Lindgren, Ilon Wikland",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9129701473/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Fantasy",
-                "Skönlitteratur",
-                "Romaner"
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
             ],
-            "ISBN": "91-86437-59-3",
-            "copies": 5
+            "ISBN": "9789129701470",
+            "copies": 4
         },
         {
-            "id": 17,
-            "title": "Gröna ängelns torn",
-            "author": "Tad Williams",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9132323778/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 161,
+            "title": "Karnevalen i Brind",
+            "author": "Kyrre Thalberg, Sara Snogerup Linse",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9175272555/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Fantasy"
+                "Kapitelböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
             ],
-            "ISBN": "91-32-32377-8",
-            "copies": 5
+            "ISBN": "9789175272559",
+            "copies": 0
         },
         {
-            "id": 18,
-            "title": "Det gyllene språnget : roman",
-            "author": "Bertil Mårtensson",
-            "genre": [],
-            "ISBN": "91-7780-081-8",
-            "copies": 5
-        },
-        {
-            "id": 19,
-            "title": "Obeliskporten",
-            "author": "N K. Jemisin",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9113094254/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 162,
+            "title": "Finn och draken",
+            "author": "Irene Wellershoff, Jan Birck",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9187075199/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Romaner",
-                "Science fiction",
-                "Fantasy"
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
             ],
-            "ISBN": "9789113094250",
+            "ISBN": "9789187075193",
+            "copies": 7
+        },
+        {
+            "id": 163,
+            "title": "Kjetil och Annika",
+            "author": "Kyrre Thalberg, Sara Snogerup Linse",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9175271427/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Kapitelböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9789175271422",
+            "copies": 12
+        },
+        {
+            "id": 164,
+            "title": "Draksommar",
+            "author": "Kyrre Thalberg, Sara Snogerup Linse",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9175270218/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Kapitelböcker",
+                "Barn"
+            ],
+            "ISBN": "978-91-7527-021-0",
+            "copies": 10
+        },
+        {
+            "id": 165,
+            "title": "Kjetil och Jostein",
+            "author": "Kyrre Thalberg, Sara Snogerup Linse",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9175270579/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Kapitelböcker",
+                "Barn"
+            ],
+            "ISBN": "978-91-7527-057-9",
+            "copies": 13
+        },
+        {
+            "id": 166,
+            "title": "Bamse och Hoppa-Tossa",
+            "author": "Karin Didring",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9174052187/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9789174052183",
+            "copies": 2
+        },
+        {
+            "id": 167,
+            "title": "Ta hand om din drake",
+            "author": "MP. Robertson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176270092/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn"
+            ],
+            "ISBN": "9789176270097",
             "copies": 5
+        },
+        {
+            "id": 168,
+            "title": "Berätta om din drake",
+            "author": "Jackie Morris",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9188262855/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn"
+            ],
+            "ISBN": "978-91-88262-85-1",
+            "copies": 7
+        },
+        {
+            "id": 169,
+            "title": "Mumintrollen och draken : efter en berättelse av Tove Jansson",
+            "author": "Cecilia Davidsson, Cecilia Heikkilä",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9178035333/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9789178035335",
+            "copies": 11
+        },
+        {
+            "id": 170,
+            "title": "Birger - det lilla Storsjöodjuret hittar på",
+            "author": "Sara Strömberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9163768291/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9789163768293",
+            "copies": 0
+        },
+        {
+            "id": 171,
+            "title": "Kjetil lär sig flyga",
+            "author": "Kyrre Thalberg, Sara Snogerup Linse",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186129902/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Kapitelböcker",
+                "Barn"
+            ],
+            "ISBN": "978-91-86129-90-3",
+            "copies": 8
+        },
+        {
+            "id": 172,
+            "title": "Birger - det lilla Storsjöodjuret letar överallt",
+            "author": "Sara Strömberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9198508636/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9789198508635",
+            "copies": 14
+        },
+        {
+            "id": 173,
+            "title": "Drakjägarna",
+            "author": "Xiong Liang",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9188253988/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Barn- och ungdomslitteratur",
+                "Bilderböcker",
+                "Barn"
+            ],
+            "ISBN": "9789188253989",
+            "copies": 6
+        },
+        {
+            "id": 174,
+            "title": "Oskar och den utsvultna draken",
+            "author": "Ute Krause",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=8779161065/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9788779161061",
+            "copies": 11
+        },
+        {
+            "id": 175,
+            "title": "Rolf och den ryslige riddar Roland",
+            "author": "Ute Krause",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=8779162304/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn"
+            ],
+            "ISBN": "9788779162303",
+            "copies": 4
+        },
+        {
+            "id": 176,
+            "title": "Drakpost",
+            "author": "Emma Yarlett",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9198534319/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn- och ungdomslitteratur",
+                "Mekaniska böcker",
+                "Barn"
+            ],
+            "ISBN": "9789198534313",
+            "copies": 2
+        },
+        {
+            "id": 177,
+            "title": "Bara knyt, Alfons!",
+            "author": "Gunilla Bergström",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9129656834/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Barn"
+            ],
+            "ISBN": "9129656834",
+            "copies": 13
+        },
+        {
+            "id": 178,
+            "title": "Zogg och de flygande doktorerna",
+            "author": "Julia Donaldson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9150119206/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Rim",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9789150119206",
+            "copies": 12
+        },
+        {
+            "id": 179,
+            "title": "Kivi & drakbrakaren",
+            "author": "Jesper Lundqvist, Bettina Johansson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=918834729X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilderböcker",
+                "Rim",
+                "Barn- och ungdomslitteratur",
+                "Barn"
+            ],
+            "ISBN": "9789188347299",
+            "copies": 9
         },
         {
             "id": 20,
-            "title": "Ringens brödraskap",
-            "author": "JR.R. Tolkien",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9113044915/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
+            "title": "Snorres Edda",
+            "author": "Björn Collinder",
             "genre": [
-                "Fantasy",
-                "Romaner"
+                "Pensionär"
             ],
-            "ISBN": "9789113044910",
-            "copies": 5
+            "ISBN": "91-37-08284-1",
+            "copies": 14
         },
         {
             "id": 21,
-            "title": "Den femte årstiden",
-            "author": "N K. Jemisin",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9113087266/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Sherlock Holmes i skräckens dal",
+            "author": "Arthur Conan Doyle",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177423232/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Romaner",
-                "Science fiction",
-                "Fantasy"
+                "Pensionär"
             ],
-            "ISBN": "9789113087269",
-            "copies": 5
+            "ISBN": "91-7742-323-2",
+            "copies": 0
         },
         {
             "id": 22,
-            "title": "Ancillary sword",
-            "author": "Ann Leckie",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=0356502414/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Engelska",
+            "title": "Den lilla kaninen",
+            "author": "Ariane",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9163866765/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
             "genre": [
-                "Romaner",
-                "Fantasy",
-                "Science fiction"
+                "Bilderböcker",
+                "Pensionär"
             ],
-            "ISBN": "9780356502410",
+            "ISBN": "91-638-6676-5",
             "copies": 5
         },
         {
             "id": 23,
-            "title": "Vingar av glas",
-            "author": "Sofie Trinh Johansson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9187015137/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "En dåres försvarstal",
+            "author": "August Strindberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9113040235/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
             "genre": [
-                "Rysare",
-                "Skönlitteratur",
-                "Romaner"
+                "Pensionär"
             ],
-            "ISBN": "91-87015-13-7",
-            "copies": 5
+            "ISBN": "91-1-304023-5",
+            "copies": 2
         },
         {
             "id": 24,
-            "title": "Främmande folk och förtrollade skogar :  trolska berättelser",
-            "author": "samlade och presenterade av Rickard Berghorn",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9187619008/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Bröderna Karamazov. 2",
+            "author": "Fjodor Dostojevskij",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177010388/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Sagor",
-                "Fantasy",
-                "Skönlitteratur",
-                "Noveller",
-                "Antologier"
+                "Romaner",
+                "Pensionär"
             ],
-            "ISBN": "978-91-87619-00-7",
-            "copies": 5
+            "ISBN": "9789177010388",
+            "copies": 8
         },
         {
             "id": 25,
-            "title": "Dit ingen annan går",
-            "author": "Anders Torstensson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9176590151/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "En julsaga",
+            "author": "Charles Dickens",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177810139/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Fantasy",
+                "Spökhistorier",
                 "Skönlitteratur",
-                "Romaner"
+                "Pensionär"
             ],
-            "ISBN": "9789176590157",
-            "copies": 5
+            "ISBN": "9789177810131",
+            "copies": 4
         },
         {
             "id": 26,
-            "title": "De döda fruktar födelsen :  [mörk fantasy]",
-            "author": "Pål Eggert",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9197696870/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Antigone",
+            "author": "Sofokles",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9172473592/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
             "genre": [
-                "Fantasy",
-                "Skönlitteratur",
-                "Romaner"
+                "Pensionär"
             ],
-            "ISBN": "978-91-976968-7-6",
-            "copies": 5
+            "ISBN": "9789172473591",
+            "copies": 4
         },
         {
             "id": 27,
-            "title": "Drömgångare",
-            "author": "Samantha Shannon",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9174992562/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Norrtullsligan",
+            "author": "Elin Wägner",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177425359/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Fantasy",
-                "Skönlitteratur",
-                "Romaner"
+                "Romaner",
+                "Pensionär"
             ],
-            "ISBN": "91-7499-256-2",
-            "copies": 5
+            "ISBN": "9789177425359",
+            "copies": 8
         },
         {
             "id": 28,
-            "title": "Munins skärvor",
-            "author": "Oskar Källner",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=919794288X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "En världsomsegling under havet",
+            "author": "Jules Verne",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=918827506X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
             "genre": [
-                "Fantasy",
-                "Science fiction",
-                "Skönlitteratur",
-                "Noveller"
+                "Äventyrsskildringar",
+                "Romaner",
+                "Pensionär"
             ],
-            "ISBN": "91-979428-8-X",
-            "copies": 5
+            "ISBN": "9789188275066",
+            "copies": 3
         },
         {
             "id": 29,
-            "title": "Judas barn",
-            "author": "[Markus Heitz]",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9187219085/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Thérèse Raquin",
+            "author": "Émile Zola",
             "lang": "Svenska",
             "genre": [
-                "Skönlitteratur",
-                "Romaner"
+                "Pensionär"
             ],
-            "ISBN": "91-87219-08-5",
-            "copies": 5
+            "ISBN": "91-88680-48-7",
+            "copies": 7
         },
         {
             "id": 30,
-            "title": "Nekromantikerns krig",
-            "author": "Nick Perumov 1, Debut",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=918643716X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Fantasy",
-                "Skönlitteratur",
-                "Romaner"
-            ],
-            "ISBN": "91-86437-16-X",
-            "copies": 5
-        },
-        {
-            "id": 31,
-            "title": "Stenhimlen",
-            "author": "N K. Jemisin",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9113094238/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Romaner",
-                "Science fiction",
-                "Fantasy"
-            ],
-            "ISBN": "9789113094236",
-            "copies": 5
-        },
-        {
-            "id": 32,
-            "title": "Halvblod",
-            "author": "[Sofie Trinh Johansson]",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=918701503X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "genre": [
-                "Rysare",
-                "Skönlitteratur",
-                "Romaner"
-            ],
-            "ISBN": "91-87015-03-X",
-            "copies": 5
-        },
-        {
-            "id": 33,
-            "title": "Leva älska brinna dö",
-            "author": "Sofie Trinh Johansson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9187015706/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Skräck",
-                "Romaner"
-            ],
-            "ISBN": "9789187015700",
-            "copies": 5
-        },
-        {
-            "id": 34,
-            "title": "Demonologi för nybörjare",
-            "author": "Caroline L Jensen.",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9187049775/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Romaner"
-            ],
-            "ISBN": "9789187049774",
-            "copies": 5
-        },
-        {
-            "id": 35,
-            "title": "Nattpatrullen : första boken",
-            "author": "Sergej Lukjanenko",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9186437119/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Fantasy",
-                "Skönlitteratur",
-                "Romaner"
-            ],
-            "ISBN": "978-91-86437-11-4",
-            "copies": 5
-        },
-        {
-            "id": 36,
-            "title": "Drakvinter",
-            "author": "Margaret Weis & Tracy Hickman",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=913232281X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Fantasy"
-            ],
-            "ISBN": "91-32-32281-X",
-            "copies": 5
-        },
-        {
-            "id": 37,
-            "title": "Lilla syster Kanin och alla hennes vänner",
-            "author": "Ulf Nilsson, Eva Eriksson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9163854244/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "En liten indian",
+            "author": "Margaret Wise Brown",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9163866587/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
                 "Bilderböcker",
-                "Barn- och ungdomslitteratur"
+                "Pensionär"
             ],
-            "ISBN": "9163854244",
-            "copies": 0
+            "ISBN": "91-638-6658-7",
+            "copies": 13
         },
         {
-            "id": 38,
-            "title": "Gullivers resor",
-            "author": "Jonathan Swift",
-            "lang": "Svenska",
-            "genre": [],
-            "ISBN": "9789113070315",
-            "copies": 5
-        },
-        {
-            "id": 39,
-            "title": "Fahrenheit 451",
-            "author": "Ray Bradbury",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9177815319/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 31,
+            "title": "Den gamle och havet",
+            "author": "Ernest Hemingway",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177424883/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
                 "Romaner",
-                "Dystopier"
+                "Pensionär"
             ],
-            "ISBN": "9789177815310",
-            "copies": 451
+            "ISBN": "9789177424888",
+            "copies": 8
         },
         {
-            "id": 40,
-            "title": "Tusen och en natt",
-            "author": "i urval och bearbetning av Anna Wahlenberg",
+            "id": 32,
+            "title": "Lysande utsikter",
+            "author": "John Doe",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=872812507X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
-            "genre": [],
-            "ISBN": "91-20-06868-9",
+            "genre": [
+                "Pensionär"
+            ],
+            "ISBN": "9788728125076",
+            "copies": 9
+        },
+        {
+            "id": 33,
+            "title": "Djurfarmen",
+            "author": "George Orwell",
+            "lang": "Svenska",
+            "genre": [
+                "Satir",
+                "Politiska skildringar",
+                "Fabler",
+                "Romaner",
+                "Pensionär"
+            ],
+            "ISBN": "9789177818649",
+            "copies": 11
+        },
+        {
+            "id": 34,
+            "title": "Den gudomliga komedin",
+            "author": "Dante Alighieri",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9163764350/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Pensionär"
+            ],
+            "ISBN": "9789163764356",
+            "copies": 3
+        },
+        {
+            "id": 35,
+            "title": "Nils Holgerssons underbara resa genom Sverige",
+            "author": "Selma Lagerlöf",
+            "genre": [
+                "Pensionär"
+            ],
+            "ISBN": "91-24-61492-0",
+            "copies": 12
+        },
+        {
+            "id": 36,
+            "title": "Stigfinnaren",
+            "author": "J Fenimore Cooper",
+            "lang": "Svenska",
+            "genre": [
+                "Pensionär"
+            ],
+            "ISBN": "91-20-07211-2",
+            "copies": 9
+        },
+        {
+            "id": 37,
+            "title": "Fettpärlan",
+            "author": "Guy de Maupassant",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9127554244/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Pensionär"
+            ],
+            "ISBN": "91-27-55424-4",
             "copies": 5
         },
         {
-            "id": 41,
-            "title": "Robin Hood",
-            "author": "Howard Pyle",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9176631362/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 38,
+            "title": "Walt Disney's Lady och Lufsen",
+            "author": "Ward Greene",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9163866692/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Mellanåldersböcker",
-                "Klassiker",
-                "Äventyrsböcker",
+                "Bilderböcker",
+                "Pensionär"
+            ],
+            "ISBN": "91-638-6669-2",
+            "copies": 7
+        },
+        {
+            "id": 39,
+            "title": "Karolinerna :  berättelser",
+            "author": "Verner von Heidenstam",
+            "genre": [
+                "Pensionär"
+            ],
+            "ISBN": [],
+            "copies": 4
+        },
+        {
+            "id": 60,
+            "title": "We sprout in thy soil  [Ljudupptagning]",
+            "author": "David Åhlén",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 0
+        },
+        {
+            "id": 61,
+            "title": "Lyft din blick  [Ljudupptagning]",
+            "author": "the Mess",
+            "lang": "Creek, Svenska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 11
+        },
+        {
+            "id": 62,
+            "title": "Medeltida kyrkomusik för manskör [Ljudupptagning]",
+            "author": "Våga vinn!",
+            "lang": "Creek, Latin",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 14
+        },
+        {
+            "id": 63,
+            "title": "Lifetime  [Ljudupptagning] :  [a retrospective of soul, blues & gospel 1956-1999]",
+            "author": "Johnnie Taylor",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 9
+        },
+        {
+            "id": 64,
+            "title": "The essential Mahalia Jackson  [Ljudupptagning]",
+            "author": "(C Ward ...)",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 7
+        },
+        {
+            "id": 65,
+            "title": "Sånger för livet i Globen  [Ljudupptagning] :  våra mest folkkära artister, 3000 körsångare och musiker med jättepublik i en härlig sång- och musikfest",
+            "author": "J Frank",
+            "lang": "Creek, Svenska, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 3
+        },
+        {
+            "id": 66,
+            "title": "Where no one stands alone Elvis Presley ; produced by Joel Weinshanker, Lisa Marie Presley and Andy Childs. [Ljudupptagning]",
+            "author": "Någon, nånstans, nån gång.",
+            "lang": "Engelska",
+            "genre": [
+                "Musikinspelningar",
+                "Gospel",
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 11
+        },
+        {
+            "id": 67,
+            "title": "Blessed  [Ljudupptagning]",
+            "author": "David Mulovhedzi",
+            "lang": "Creek, Zulu, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 6
+        },
+        {
+            "id": 68,
+            "title": "Keep movin  [Ljudupptagning]",
+            "author": "Ole Börud, vocals, guitars, bass, additional keys",
+            "lang": "Creek",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 7
+        },
+        {
+            "id": 69,
+            "title": "Forever reign  [Ljudupptagning]",
+            "author": "Dean Ussher, Karl Cashwell",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 14
+        },
+        {
+            "id": 70,
+            "title": "Sangen fra katakombene  [Ljudupptagning]",
+            "author": "Någon, nånstans, nån gång.",
+            "lang": "Creek, Norwegian",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 14
+        },
+        {
+            "id": 71,
+            "title": "Gud har 99 namn  [Ljudupptagning]",
+            "author": "Våga vinn!",
+            "lang": "Creek, Flerspråkig",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 3
+        },
+        {
+            "id": 72,
+            "title": "\"I feel the Holy Spirit\"  [Ljudupptagning]",
+            "author": "Clara Ward",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 3
+        },
+        {
+            "id": 73,
+            "title": "Lifetime  [Ljudupptagning] :  [a retrospective of soul, blues & gospel 1956-1999]",
+            "author": "Johnnie Taylor",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 13
+        },
+        {
+            "id": 74,
+            "title": "Big bang  [Ljudupptagning]",
+            "author": "Simon Ådahl",
+            "lang": "Creek, Svenska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 8
+        },
+        {
+            "id": 75,
+            "title": "In this house  [Ljudupptagning]",
+            "author": "T Aas, J. Groth",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 4
+        },
+        {
+            "id": 76,
+            "title": "Hjärtats längtan musik",
+            "author": "Camilla Voigt",
+            "lang": "Svenska",
+            "genre": [
+                "Musikinspelningar",
+                "Andlig musik",
+                "Damkör",
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 3
+        },
+        {
+            "id": 77,
+            "title": "Jerusalem klassiker  [Ljudupptagning]",
+            "author": "Jesus",
+            "lang": "Creek, Engelska",
+            "genre": [
+                "Religiös"
+            ],
+            "ISBN": [],
+            "copies": 8
+        },
+        {
+            "id": 120,
+            "title": "Lögnerskan",
+            "author": "Torill Thorup",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137450/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-7713-745-0",
+            "copies": 0
+        },
+        {
+            "id": 121,
+            "title": "Flykten från det förflutna",
+            "author": "Torill Thorup",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137434/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-7713-743-4",
+            "copies": 10
+        },
+        {
+            "id": 122,
+            "title": "Lycka och livsstilslögner på landet! : roman",
+            "author": "Anna Winberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=918844757X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Relationsskildringar",
+                "Romaner"
+            ],
+            "ISBN": "9789188447579",
+            "copies": 3
+        },
+        {
+            "id": 123,
+            "title": "Resan till huvudstaden",
+            "author": "Någon, nånstans, nån gång.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137515/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "9789177137511",
+            "copies": 4
+        },
+        {
+            "id": 124,
+            "title": "Besatthet",
+            "author": "Torill Thorup",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137477/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-7713-747-7",
+            "copies": 14
+        },
+        {
+            "id": 125,
+            "title": "Nattvandraren",
+            "author": "Torill Thorup",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137418/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "91-7713-741-8",
+            "copies": 2
+        },
+        {
+            "id": 126,
+            "title": "Storstadskärlek",
+            "author": "Linda Forss",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Kärleksskildringar"
+            ],
+            "ISBN": "9789150946048",
+            "copies": 0
+        },
+        {
+            "id": 127,
+            "title": "Hemligheten i Cornwall",
+            "author": "Liz Fenwick",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9113089900/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Relationsskildringar"
+            ],
+            "ISBN": "9789113089904",
+            "copies": 14
+        },
+        {
+            "id": 128,
+            "title": "Tid för avsked",
+            "author": "Torill Thorup",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137531/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [],
+            "ISBN": "9789177137535",
+            "copies": 12
+        },
+        {
+            "id": 129,
+            "title": "Inte bara amen och halleluja",
+            "author": "Aili Lundmark",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9175575434/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Feelgood",
+                "Romaner"
+            ],
+            "ISBN": "9789175575438",
+            "copies": 9
+        },
+        {
+            "id": 130,
+            "title": "En nästan perfekt mamma",
+            "author": "Lilly Emme",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177894979/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Feelgood"
+            ],
+            "ISBN": "9789177894971",
+            "copies": 6
+        },
+        {
+            "id": 131,
+            "title": "MeloDrama Queens : vad kan gå fel!",
+            "author": "Nanne Grönvall",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9189261526/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Chick lit",
+                "Feelgood",
+                "Romaner"
+            ],
+            "ISBN": "9789189261525",
+            "copies": 9
+        },
+        {
+            "id": 132,
+            "title": "Bara på besök",
+            "author": "Beth O´Leary",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177713338/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Feelgood"
+            ],
+            "ISBN": "9789177713333",
+            "copies": 6
+        },
+        {
+            "id": 133,
+            "title": "Hemma hos Bettan",
+            "author": "Eli Åhman Owetz",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176294021/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Feelgood",
+                "Relationsskildringar",
+                "Romaner"
+            ],
+            "ISBN": "9789176294024",
+            "copies": 7
+        },
+        {
+            "id": 134,
+            "title": "Gräddhyllan",
+            "author": "Elin Eldestrand",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176972089/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Humoristiska skildringar",
+                "Feelgood",
+                "Humor"
+            ],
+            "ISBN": "9789176972083",
+            "copies": 0
+        },
+        {
+            "id": 135,
+            "title": "Nästan vuxen",
+            "author": "Bente Pedersen",
+            "lang": "Svenska",
+            "genre": [
+                "Utvecklingsromaner",
+                "Romaner",
+                "Historiska skildringar"
+            ],
+            "ISBN": "9789177137108",
+            "copies": 7
+        },
+        {
+            "id": 136,
+            "title": "Förälskad i trubbel",
+            "author": "Sarah Title",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9198409719/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner"
+            ],
+            "ISBN": "9789198409710",
+            "copies": 13
+        },
+        {
+            "id": 137,
+            "title": "Den franska fotografen",
+            "author": "Natasha Lester",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=917028606X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Romaner",
+                "Historiska skildringar"
+            ],
+            "ISBN": "9789170286063",
+            "copies": 1
+        },
+        {
+            "id": 138,
+            "title": "Bröllopsresa",
+            "author": "Bente Pedersen",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137191/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Kärleksskildringar"
+            ],
+            "ISBN": "9789177137191",
+            "copies": 14
+        },
+        {
+            "id": 139,
+            "title": "Ett liv i synd",
+            "author": "Bente Pedersen",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9177137213/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Kärleksskildringar",
+                "Romaner",
+                "Historiska skildringar"
+            ],
+            "ISBN": "9789177137214",
+            "copies": 0
+        },
+        {
+            "id": 0,
+            "title": "Pianostämmaren [Ljudupptagning] : kriminalroman",
+            "author": "Stefan Tegenfalk",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186649752/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Deckare",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-86649-75-3",
+            "copies": 9
+        },
+        {
+            "id": 1,
+            "title": "Storsjöodjuret [Ljudupptagning]",
+            "author": "Jonas Moström",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9174831348/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Deckare",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-7483-134-4",
+            "copies": 10
+        },
+        {
+            "id": 2,
+            "title": "Kvinnan i fönstret [Ljudupptagning]",
+            "author": "A J. Finn",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176472000/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ljudböcker",
+                "Romaner",
+                "Thrillers",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789176472002",
+            "copies": 13
+        },
+        {
+            "id": 3,
+            "title": "Misstaget [Ljudupptagning] : en Jack Reacher-thriller",
+            "author": "Lee Child",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9173513253/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Thrillers",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-7351-325-8",
+            "copies": 2
+        },
+        {
+            "id": 4,
+            "title": "Bittrare än döden [Ljudupptagning] : psykologisk spänningsroman",
+            "author": "Camilla Grebe, Åsa Träff",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186223631/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Deckare",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-86223-63-2",
+            "copies": 10
+        },
+        {
+            "id": 5,
+            "title": "Honungsfällan [Ljudupptagning]",
+            "author": "Unni Lindell",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9164221385/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Deckare",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-642-2138-4",
+            "copies": 13
+        },
+        {
+            "id": 6,
+            "title": "Skumrask [Ljudupptagning] : en Sten Wall-deckare",
+            "author": "Björn Hellberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9174831429/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Deckare",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-7483-142-9",
+            "copies": 6
+        },
+        {
+            "id": 7,
+            "title": "Midnattssol [Ljudupptagning]",
+            "author": "Jo Nesbø",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9164222772/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ljudböcker",
+                "Skönlitteratur",
+                "Thrillers",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789164222770",
+            "copies": 1
+        },
+        {
+            "id": 8,
+            "title": "En bror att dö för Roslund & Thunberg. [Ljudupptagning]",
+            "author": "Någon, nånstans, nån gång.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=916422287X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ljudböcker",
+                "Deckare",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789164222879",
+            "copies": 3
+        },
+        {
+            "id": 9,
+            "title": "Filosofiska söndagsklubben [Ljudupptagning]",
+            "author": "Alexander McCall Smith",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9171306714/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Bilvänlig"
+            ],
+            "ISBN": "91-7130-671-4",
+            "copies": 10
+        },
+        {
+            "id": 10,
+            "title": "Livstid [Ljudupptagning]",
+            "author": "Liza Marklund",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9164220869/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Thrillers",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "91-642-2086-9",
+            "copies": 13
+        },
+        {
+            "id": 11,
+            "title": "Skulden",
+            "author": "David Baldacci",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9178352835/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ljudböcker",
+                "Thrillers",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789178352838",
+            "copies": 4
+        },
+        {
+            "id": 12,
+            "title": "Natriumklorid",
+            "author": "Jussi Adler-Olsen",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9100197939/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ljudböcker",
+                "Deckare",
+                "Romaner",
+                "Skönlitteratur",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789100197933",
+            "copies": 8
+        },
+        {
+            "id": 13,
+            "title": "Ett litet snedsprång  [Ljudupptagning]",
+            "author": "Denise Rudberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9113030043/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Deckare",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-1-303004-3",
+            "copies": 1
+        },
+        {
+            "id": 14,
+            "title": "Rotvälta",
+            "author": "Tove Alsterdal",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9179033423/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Deckare",
+                "Romaner",
+                "Ljudböcker",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789179033422",
+            "copies": 12
+        },
+        {
+            "id": 15,
+            "title": "Mörk jord [Ljudupptagning]",
+            "author": "Ann Cleeves",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9176471330/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Ljudböcker",
+                "Deckare",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789176471333",
+            "copies": 7
+        },
+        {
+            "id": 16,
+            "title": "Syndabocken Sofie Sarenbrant ; uppläsare: Katarina Ewerlöf. [Ljudupptagning]",
+            "author": "Någon, nånstans, nån gång.",
+            "lang": "Svenska",
+            "genre": [
+                "Ljudböcker",
+                "Deckare",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789188545602",
+            "copies": 10
+        },
+        {
+            "id": 17,
+            "title": "Inte ett ord",
+            "author": "Harlan Coben",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9179191754/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Thrillers",
+                "Romaner",
+                "Ljudböcker",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789179191757",
+            "copies": 3
+        },
+        {
+            "id": 18,
+            "title": "Den man älskar  [Ljudupptagning] :  kriminalroman",
+            "author": "Mari Jungstedt",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9173487937/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Deckare",
+                "Skönlitteratur",
+                "Romaner",
+                "Bilvänlig"
+            ],
+            "ISBN": "978-91-7348-793-1",
+            "copies": 3
+        },
+        {
+            "id": 19,
+            "title": "Elva änkors man",
+            "author": "Denise Rudberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9189393651/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Deckare",
+                "Romaner",
+                "Ljudböcker",
+                "Bilvänlig"
+            ],
+            "ISBN": "9789189393653",
+            "copies": 11
+        },
+        {
+            "id": 100,
+            "title": "Village of stone",
+            "author": "Xiaolu Guo",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0099484951/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "0-099-48495-1",
+            "copies": 11
+        },
+        {
+            "id": 101,
+            "title": "Dancing on the edge",
+            "author": "Han Nolan",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0141302038/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "0-14-130203-8",
+            "copies": 6
+        },
+        {
+            "id": 102,
+            "title": "The house of silk",
+            "author": "Anthony Horowitz",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1409133826/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "978-1-4091-3382-7",
+            "copies": 4
+        },
+        {
+            "id": 103,
+            "title": "Dare me : a novel",
+            "author": "Megan Abbott",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0316097780/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=ocn857230628",
+            "lang": "Engelska",
+            "genre": [
+                "Deckare",
+                "Psychological fiction",
+                "Fictional literature"
+            ],
+            "ISBN": "0316097780",
+            "copies": 7
+        },
+        {
+            "id": 104,
+            "title": "An absolutely remarkable thing",
+            "author": "Ingen vet",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1473224195/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Science fiction",
+                "Romaner"
+            ],
+            "ISBN": "9781473224193",
+            "copies": 7
+        },
+        {
+            "id": 105,
+            "title": "Children of the fang and other genealogies",
+            "author": "John Langan",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1939905605/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Skräck",
+                "Noveller"
+            ],
+            "ISBN": "9781939905604",
+            "copies": 3
+        },
+        {
+            "id": 106,
+            "title": "Hooper",
+            "author": "Geoff Herbach",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0062453114/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Ungdomsböcker",
+                "Unga vuxna"
+            ],
+            "ISBN": "9780062453112",
+            "copies": 8
+        },
+        {
+            "id": 107,
+            "title": "Love, hate & other filters",
+            "author": "Samira Ahmed",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1616958472/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Ungdomsböcker",
                 "Barn- och ungdomslitteratur"
             ],
-            "ISBN": "9789176631362",
+            "ISBN": "9781616958473",
+            "copies": 12
+        },
+        {
+            "id": 108,
+            "title": "The making of Mia",
+            "author": "Ilana Fox",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0752886053/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "9780752886053",
+            "copies": 13
+        },
+        {
+            "id": 109,
+            "title": "The kiss of deception",
+            "author": "Mary E Pearson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0805099239/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9780805099232 (inb.)",
+            "copies": 7
+        },
+        {
+            "id": 110,
+            "title": "13 ways of looking at a fat girl",
+            "author": "Mona Awad",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1788549686/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Romaner"
+            ],
+            "ISBN": "9781788549684",
+            "copies": 14
+        },
+        {
+            "id": 111,
+            "title": "Luster",
+            "author": "Raven Leilani",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1529073391/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=on1258132266",
+            "lang": "Engelska",
+            "genre": [
+                "Romaner",
+                "Utvecklingsromaner",
+                "Humor",
+                "Bildungsromans",
+                "Humorous fiction"
+            ],
+            "ISBN": "9781529073393",
+            "copies": 10
+        },
+        {
+            "id": 112,
+            "title": "My dark Vanessa",
+            "author": "Kate Elizabeth Russell",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=0008342288/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Romaner"
+            ],
+            "ISBN": "9780008342289",
+            "copies": 8
+        },
+        {
+            "id": 113,
+            "title": "Switch",
+            "author": "AS. King.",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1922458104/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Science fiction",
+                "Unga vuxna",
+                "Ungdomsböcker",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9781922458100",
+            "copies": 3
+        },
+        {
+            "id": 114,
+            "title": "American panda",
+            "author": "Gloria Chao",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1481499106/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "9781481499101",
+            "copies": 11
+        },
+        {
+            "id": 115,
+            "title": "The Sandman :  the dream hunters",
+            "author": "Neil Gaiman",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1840231289/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [],
+            "ISBN": "1-84023-128-9",
+            "copies": 5
+        },
+        {
+            "id": 116,
+            "title": "The pull of the stars",
+            "author": "Emma Donoghue",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=152904619X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Romaner",
+                "Historiska skildringar"
+            ],
+            "ISBN": "9781529046199",
+            "copies": 11
+        },
+        {
+            "id": 117,
+            "title": "Bog child",
+            "author": "Siobhan Dowd",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1909531170/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Ungdomsböcker"
+            ],
+            "ISBN": "9781909531178",
+            "copies": 0
+        },
+        {
+            "id": 118,
+            "title": "You'll miss me when I'm gone",
+            "author": "Rachel Lynn Solomon",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=1481497731/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Engelska",
+            "genre": [
+                "Unga vuxna",
+                "Ungdomsböcker",
+                "Barn- och ungdomslitteratur"
+            ],
+            "ISBN": "9781481497732",
+            "copies": 14
+        },
+        {
+            "id": 40,
+            "title": "Mulle!",
+            "author": "Lena Furberg",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9174058185/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Djur"
+            ],
+            "ISBN": "978-91-7405-818-5",
+            "copies": 9
+        },
+        {
+            "id": 41,
+            "title": "Klara och fölet",
+            "author": "Pia Hagmar",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132160658/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Mellanåldersböcker",
+                "Hästböcker",
+                "Djur"
+            ],
+            "ISBN": "91-32-16065-8",
             "copies": 5
         },
         {
             "id": 42,
-            "title": "Kulla-Gulla håller sitt löfte",
-            "author": "Martha Sandwall-Bergström",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9178037298/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Nalle Puhs bok :  tre berättelser",
+            "author": "A A. Milne",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9163822326/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Barn- och ungdomslitteratur",
-                "Mellanåldersböcker",
-                "Klassiker"
+                "Djur"
             ],
-            "ISBN": "9789178037292",
+            "ISBN": "91-638-2232-6",
             "copies": 2
         },
         {
             "id": 43,
-            "title": "Metro 2034 : försvaret av Sevastopolskaja",
-            "author": "Dmitrij Gluchovskij",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9186437666/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
+            "title": "Önskas: litet hårigt djur",
+            "author": "Pia Hagmar",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132142633/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "genre": [
-                "Dystopier",
-                "Skönlitteratur",
-                "Romaner"
+                "Djur"
             ],
-            "ISBN": "9789186437664",
-            "copies": 5
+            "ISBN": "91-32-14263-3",
+            "copies": 12
         },
         {
             "id": 44,
-            "title": "Invasion",
-            "author": "Dean Koontz",
+            "title": "Bergsgorillan",
+            "author": "Michael Bright",
             "lang": "Svenska",
             "genre": [
-                "Science fiction",
-                "Thrillers",
-                "Skönlitteratur",
-                "Romaner"
+                "Djur"
             ],
-            "ISBN": "978-91-7002-741-3",
-            "copies": 5
+            "ISBN": "91-21-10143-4",
+            "copies": 0
         },
         {
             "id": 45,
-            "title": "Metro 2033 : den sista tillflykten",
-            "author": "Dimitrij Gluchovskij",
+            "title": "Peanut : ett marsvins resor och äventyr",
+            "author": "Annica Nilsson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9188187675/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Dystopier"
+                "Barn- och ungdomslitteratur",
+                "Kapitelböcker",
+                "Djur"
             ],
-            "ISBN": "9789187219696",
-            "copies": 5
+            "ISBN": "9789188187673",
+            "copies": 13
         },
         {
             "id": 46,
-            "title": "Stiftelsetrilogin",
-            "author": "Isaac Asimov",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9127163202/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Hundlängtan och utomjordingar",
+            "author": "Anna Helgesson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9175773821/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Science fiction",
-                "Framtidsskildringar",
-                "Romaner"
+                "Kapitelböcker",
+                "Barn- och ungdomslitteratur",
+                "Djur"
             ],
-            "ISBN": "9789127163201",
-            "copies": 5
+            "ISBN": "9789175773827",
+            "copies": 3
         },
         {
             "id": 47,
-            "title": "Avgrund",
-            "author": "Jeff VanderMeer",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=918722285X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "title": "Har någon sett Max?",
+            "author": "Ben M Baglio",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132150016/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Science fiction",
-                "Thrillers",
-                "Romaner"
+                "Kapitelböcker",
+                "Kapitelböcker",
+                "Djur"
             ],
-            "ISBN": "9789187222856",
-            "copies": 5
-        },
-        {
-            "id": 48,
-            "title": "Varma kroppar",
-            "author": "Isaac Marion",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9186843249/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [],
-            "ISBN": "91-86843-24-9",
-            "copies": 9
-        },
-        {
-            "id": 49,
-            "title": "Dracula",
-            "author": "Bram Stoker",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9119310218/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [],
-            "ISBN": "91-1-931021-8",
-            "copies": 4
-        },
-        {
-            "id": 50,
-            "title": "Sällsamma historier",
-            "author": "Edgar Allan Poe",
-            "lang": "Svenska",
-            "genre": [],
-            "ISBN": "91-29-56179-5",
-            "copies": 5
-        },
-        {
-            "id": 51,
-            "title": "Nattvakt",
-            "author": "Kit Whitfield",
-            "lang": "Svenska",
-            "genre": [
-                "Thrillers",
-                "Science fiction",
-                "Skönlitteratur",
-                "Romaner"
-            ],
-            "ISBN": "978-91-7525-007-6",
-            "copies": 5
-        },
-        {
-            "id": 52,
-            "title": "Dracula",
-            "author": "Bram Stoker",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9176631265/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Mellanåldersböcker",
-                "Klassiker",
-                "Rysare",
-                "Dagböcker",
-                "Barn- och ungdomslitteratur"
-            ],
-            "ISBN": "9789176631263",
-            "copies": 1
-        },
-        {
-            "id": 53,
-            "title": "Frankenstein",
-            "author": "Mary Shelley",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9176631230/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Mellanåldersböcker",
-                "Klassiker",
-                "Rysare",
-                "Barn- och ungdomslitteratur"
-            ],
-            "ISBN": "9789176631232",
-            "copies": 5
-        },
-        {
-            "id": 54,
-            "title": "Bron till Terabitia",
-            "author": "Katherine Paterson",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9150205544/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Mellanåldersböcker"
-            ],
-            "ISBN": "91-502-0554-4",
-            "copies": 5
-        },
-        {
-            "id": 55,
-            "title": "Kupoler av eld",
-            "author": "David Eddings",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9132321678/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [
-                "Fantasy"
-            ],
-            "ISBN": "91-32-32167-8",
+            "ISBN": "91-32-15001-6",
             "copies": 7
         },
         {
-            "id": 56,
-            "title": "Profetians tid",
-            "author": "David Eddings",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9132432828/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
+            "id": 48,
+            "title": "Vargar",
+            "author": "Jen Green",
             "genre": [
-                "Fantasy"
+                "Djur"
             ],
-            "ISBN": "91-32-43282-8",
-            "copies": 5
+            "ISBN": "13 978-91-7233-071-9",
+            "copies": 8
         },
         {
-            "id": 57,
-            "title": "Otherland",
-            "author": "Tad Williams",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9132322828/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "id": 49,
+            "title": "Hästarnas hjälte",
+            "author": "Tanja Matila",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9189191234/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
             "genre": [
-                "Fantasy"
+                "Kapitelböcker",
+                "Barn- och ungdomslitteratur",
+                "Djur"
             ],
-            "ISBN": "91-32-32282-8",
-            "copies": 15
+            "ISBN": "9789189191235",
+            "copies": 12
         },
         {
-            "id": 58,
-            "title": "Momo eller Kampen om tiden : en sagoroman",
-            "author": "Michael Ende",
-            "img": "https://secure.syndetics.com/index.aspx?isbn=9150216546/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
-            "lang": "Svenska",
-            "genre": [],
-            "ISBN": "978-91-502-1654-7",
+            "id": 50,
+            "title": "Dinosaurier",
+            "author": "Joakim Flink",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186299387/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Djur"
+            ],
+            "ISBN": "9789186299385",
             "copies": 2
         },
         {
-            "id": 59,
-            "title": "Oliver Twist",
-            "author": "Anne de Graaf",
+            "id": 51,
+            "title": "Så lever världens rovdjur",
+            "author": "Charlie Bood",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9155228194/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Djur"
+            ],
+            "ISBN": "91-552-2819-4",
+            "copies": 0
+        },
+        {
+            "id": 52,
+            "title": "Djurens rike : [gå på upptäcktsfärd med flikar, informationshjul, plastfolier]",
+            "author": "Barbara Taylor, Steve Pollock",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9171662243/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
             "lang": "Svenska",
-            "genre": [],
-            "ISBN": "91-7195-063-X",
+            "genre": [
+                "Djur"
+            ],
+            "ISBN": "91-7166-224-3",
+            "copies": 14
+        },
+        {
+            "id": 53,
+            "title": "Tigrar kysser inte lejon!",
+            "author": "Tanya Stewner",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9173551775/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Kapitelböcker",
+                "Djur"
+            ],
+            "ISBN": "91-7355-177-5",
+            "copies": 12
+        },
+        {
+            "id": 54,
+            "title": "Klaras val",
+            "author": "Pia Hagmar",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=913216064X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Mellanåldersböcker",
+                "Hästböcker",
+                "Djur"
+            ],
+            "ISBN": "91-32-16064-X",
+            "copies": 8
+        },
+        {
+            "id": 55,
+            "title": "Naturväktarna och den vita räven",
+            "author": "Malin Nilsson",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9186589652/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Kapitelböcker",
+                "Barn- och ungdomslitteratur",
+                "Djur"
+            ],
+            "ISBN": "9789186589653",
+            "copies": 10
+        },
+        {
+            "id": 56,
+            "title": "Pluttifanternas hjälte",
+            "author": "Tanja Matila",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9188813347/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Kapitelböcker",
+                "Barn- och ungdomslitteratur",
+                "Djur"
+            ],
+            "ISBN": "9789188813343",
+            "copies": 4
+        },
+        {
+            "id": 57,
+            "title": "Sofie & Alvar",
+            "author": "Ina Bruhn",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9174492551/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Mellanåldersböcker",
+                "Hästböcker",
+                "Barn- och ungdomslitteratur",
+                "Djur"
+            ],
+            "ISBN": "9789174492552",
+            "copies": 6
+        },
+        {
+            "id": 58,
+            "title": "Molly - tyst som en mus",
+            "author": "Anna Alemo",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9189147936/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "lang": "Svenska",
+            "genre": [
+                "Mellanåldersböcker",
+                "Barn- och ungdomslitteratur",
+                "Djur"
+            ],
+            "ISBN": "9789189147935",
             "copies": 3
+        },
+        {
+            "id": 59,
+            "title": "Klaras ridlägersommar",
+            "author": "Pia Hagmar",
+            "img": "https://secure.syndetics.com/index.aspx?isbn=9132158858/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+            "genre": [
+                "Mellanåldersböcker",
+                "Hästböcker",
+                "Djur"
+            ],
+            "ISBN": "91-32-15885-8",
+            "copies": 13
         }
     ],
     "staff": [
@@ -799,8 +2242,8 @@
             "name": "Joakim Flink",
             "email": "joakim.flink@hotmail.com",
             "phone": "952-531-7444",
-            "role": "librarian",
-            "dateOfBirth": "1956-11-06T11:03:53.873Z",
+            "role": "author",
+            "dateOfBirth": "1656-11-06T11:03:53.873Z",
             "avatar": "https://cdn.fakercloud.com/avatars/gmourier_128.jpg"
         },
         {
