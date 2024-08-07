@@ -4,6 +4,7 @@
 
 <https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c> <br>
 
+<https://www.google.com/search?q=ux%2FUI+best+pratices+webside&oq=ux%2FUI+best+pratices+webside&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEJMTU1NjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8> <br>
 
 <i>Baserat på eran målgrupp så kommer ni behöva motivera era design val.</i>
 
