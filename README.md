@@ -1,19 +1,28 @@
-# UI/UX frontend design and implementation assignment
+# UI/UX Design Projektet
 
-## UI/UX Must Read Links
+ ![Design](https://www.intelivita.com/wp-content/uploads/2023/10/Steps-of-Software-Development-Process.webp)
+
+## UI/UX Resurs länkar
+
+<https://www.codecademy.com/enrolled/courses/intro-to-ui-ux>
 
 <https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c> <br>
 
 <https://www.google.com/search?q=ux%2FUI+best+pratices+webside&oq=ux%2FUI+best+pratices+webside&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEJMTU1NjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8> <br>
 
-<i>Baserat på eran målgrupp så kommer ni behöva motivera era design val.</i>
+<https://www.codecademy.com/content-items/c2b65f9281fdeff54c3a228926ed913c?preview=true>
 
-## Introduction
-In this project we will practice UI / UX and apply it to an application. You will work in groups of 3 in the project where you get to decide members. The application will be a cafe online shop (konditori) where the data is predetermined, however, appearance and design are not determined. Your task is to, based on a target group, design and implement the application with strong emphasis on design and UI / UX in mind.
+## Introduktion
+I detta projekt kommer vi att öva på UI/UX och tillämpa det på ett case. 
+Ni kommer att arbeta i grupper om 3 i projektet där ni får bestämma medlemmar. 
+Caset är att designa en webbsida till ett online kafé (konditori) där uppgifterna är förutbestämda, dock bestäms inte utseende och design. 
+Er uppgift är att utifrån en målgrupp designa och om tiden räcker implementera (skapa/programmera) hemsidan med stark betoning på design och UI/UX i åtanke.
 
-This assignment has a lot of freedom in how you design it. The only thing provided is a very basic backend, just a `db.json` file served with [json-server](https://www.npmjs.com/package/json-server). Your goal is to implement a frontend application in Vue or React, your choice.
+Denna uppgift har stor frihet i hur du utformar den. 
+Ert mål är att skapa en sitemap, wireframe och design i Figma. Vad dessa är kommer ni lära er och förstå bättre när ni gått igenom innehållet.
+Det enda som tillhandahålls är en mycket grundläggande backend, bara en `db.json`-fil som körs med [json-server](https://www.npmjs.com/package/json-server). Den ger datat som ska presenteras. 
 
-## Target groups (swedish)
+## Målgrupperna
 * Små barn + föräldrar
 * Pensionärer
 * Ungdomar + unga vuxna (15 - 25år)
@@ -26,77 +35,92 @@ This assignment has a lot of freedom in how you design it. The only thing provid
 * Akademi och skola
 * Djurpark/zoo
 
-## The application
+## Resultatet
 
-### Overview
+### Översikt
 
-The application must be adapted to the target group that you have been assigned.
-The application is a bakery shop that will be designed and implemented with UI/UX in mind.
+Designen ska anpassas till den målgrupp som du har blivit tilldelad.
 
-Some requirements:
-1. Cakes are presented to the customers.
-2. Customers can sign-in/sign-out from the shop.
-3. Customers can select cakes and make orders.
-4. Staff should be displayed in a nice and appealing way.
+Några krav:
+1. Kakor presenteras för kunderna.
+2. Kunder kan logga in/logga ut från butiken.
+3. Kunder kan välja tårtor och göra beställningar.
+4. Personal ska visas upp på ett trevligt och tilltalande sätt.
 
-### Cakes presentation
+### Presentation av kakor
 
-Cakes must be presented in a nice way with UI/UX in mind, can be a list or a grid it's up to you.
-You might want som short information of the cake in the list then clicking on an item a dialog or a new page with detailed information about the cake might open.
+Kakor måste presenteras på ett snyggt sätt med UI/UX i åtanke, kan vara en lista eller ett rutnät det är upp till dig.
+Du kanske vill ha lite kort information om tårtan i listan och sedan klickar du på ett objekt kan en dialogruta eller en ny sida med detaljerad information om kakan öppnas.
 
-### Sign-In/Sign-Out
+### Logga in/logga ut
 
-De api contains customers with email and password that can be used to sign-in/sign-out users, don't have to setup anything yourself they are predefined. So no sign-up is needed.
+Backend innehåller kunder med e-post och lösenord som kan användas för att logga in/logga ut användare, ni behöver inte ställa in något själv utan de är fördefinierade. Så ingen registering behövs.
 
-### Customers can select cakes and make orders
+### Kunder kan välja kakor och göra beställningar
 
-You might implement a cart that will contain the selected cakes and total price that sums up the price for based on the selected cakes.
-A order button should be available that make an API call to add another order to he db.json backend.
+Ni kan designa en varukorg som kommer att innehålla de valda kakorna och det totala priset som summerar priset för baserat på de valda kakorna.
 
-### Staff should be displayed in a nice and appealing way.
+### Personalen ska visas upp på ett trevligt och tilltalande sätt.
 
-You should have a section or page where the staff that works on the bakery are presented.
+Du bör ha en sektion eller sida där personalen som arbetar på bageriet presenteras.
 
-## Backend
+## Presentationsdata och Backend
 
-Take a look in `db.json`.
-The REST api is whatever `npm run start-server` gives you. Basically a CRUD api where you can do GET, PUT, POST, DELETE, PATCH and OPTIONS on all collections.
+Ta en titt i `db.json`.
+Ett REST api är vad "npm run start-server" ger dig. 
+I grund och botten ett CRUD api där du kan göra GET, PUT, POST, DELETE, PATCH och OPTIONS på alla samlingar.
 
-The backend has four collections:
+Backend har fyra typer av data:
 
-1. `cakes`: a list of cakes that the bakery offers.
-2. `staff`: a list of staff that work in the bakery.
-3. `customers` a list of customers.
-4. `orders`: a list of orders from customers.
+1. `cakes`: en lista över kakor som bageriet erbjuder.
+2. `staff`: en lista över personal som arbetar i bageriet.
+3. `customers` en lista över kunder.
+4. `orders`: en lista över beställningar från kunder.
 
-### Example of a backend call
+### Exempel på ett backend-anrop
 
 `GET localhost:3000/cakes`
 
-**I can recommend installing the Visual Studio extension called Thunder Client to test API calls**
-**try it in e.g. Thunder Client, or just post the url into the browser**
+**Jag kan rekommendera att installera Visual Studio-tillägget Thunder Client för att testa API-anrop**
+**prova i t.ex. Thunder Client, eller lägg bara upp webbadressen i webbläsaren**
 
-## Requirements
+## Krav
+- Baserat på er målgrupp så kommer ni behöva motivera era design val.
+- Designen måste implementeras i Figma.
+- Använda lämplig färgtema på designen.
 
-- The application MUST be implemented in Vue or React.
-- Use any npm dependencies (and dev-dependencies) you want. All dependecies you add (except Vue or React) should be motivated (dev dependecies excluded). Use `documentation.md` for this.
-- You are free to use a bootstrap tool to spin upp the application e.g. `Vue CLI` or `Create React App`. However, commits 
-- Any description about the project; motivating dependencies you added or design decisions you think is worth mentioning etc. should be placed in a file `documentation.md` in the root of the project.
-- Make sure you merged your solution to the `master` branch. If you do work on other branches, that's fine - they don't need to be deleted - but we will not look at them.
+## Hur man kommer igång
 
-## How to get started
+Du måste ha `node` och `npm` installerade. Klona sedan det här repot, kör `npm install` och kom igång :)
 
-You need to have `node` and `npm` installed. Then clone this repository, run `npm install` and get started :)
-
-## How create new database file
+## Hur skapar en ny databasfil
 
 - `npm install -g json-server`
 - `json-server generate.js`
-- press `s` to save a snapshot of the database. After that rename your snapshot to "db.json" then restart the server.
+- tryck på `s` för att spara en ögonblicksbild av databasen. Efter det byt namn på din ögonblicksbild till "db.json" och starta sedan om servern.
 
-if you want to modify your generator, change generate.js. More info about how to use faker [here](https://github.com/marak/Faker.js/).
+om du vill modifiera din generator, ändra generate.js. Mer information om hur du använder faker [här](https://github.com/marak/Faker.js/).
+
+## Hur man skickar in uppgiften
+Man delar länk till sina designs i Figma.
+Om ni hinner implementera designen så checkas den in på ett Github-klassrumsrepo som kommer tilldelats.
+
+## Steg för steg att göra
+
+1. Skapa en grupp på 3.
+2. Välj en målgrupp ni vill skapa webbsidan för. Man får inte välja samma målgrupp, så har någon valt målgruppen får man välja en annan. Meddela läraren vilken målgrupp ni har valt.
+3. Skapa ett konto på codecademy och gå igenom materialet i kursen ["Introduction to UI and UX Design"](https://www.codecademy.com/enrolled/courses/intro-to-ui-ux)<br>
+Om du tycker det är lättare ta in texten på svenska kan du kopiera in det i Chat-GPT och be den översätta. Till texterna finns kontrollfrågor, diskutera gärna dem inom gruppen.
+4.  Skapa ett konto i Figma och börja designa och samarbeta med gruppmedlemmarna i Figma. På samma sätt som i Office 365 Word kan man samarbeta flera personer i ett dokument/design skiss.
+Ni ska göra en sitemap, wireframe och design. Datat att presentera hämtar ni från backend db.js<br><br>
+Sitemap - visar navigeringshierarkin på webbsidan
+![Sitemap](https://www.syntacticsinc.com/wp-content/uploads/2023/08/image_2023_08_07T05_05_52_722Z-1024x456.png)
+
+Wireframe - grov och enkel bild av gränssnittet, inga färger och riktiga bilder m.m.
+ ![Wireframe](https://t3.ftcdn.net/jpg/03/67/11/50/360_F_367115012_XKquocU4xrg79qEk9ZhUWuuEoJlyUTsr.jpg)
+
+Design - förväntar mig inte den här nivån, men designen är det snygga slutresultatet
+ ![Design](https://s3u.tmimgcdn.com/u46522830/c9e09baa48733183073b6aaea2efecf4.jpg)
 
 
-## How to send in the assignment
-
-The assignement can be checked in to a Github classroom repo that you have been assigned.
+5. (Inget krav) Räcker tiden till implementera webbsidan med valfria tekniker.
