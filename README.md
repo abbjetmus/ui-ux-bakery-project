@@ -117,9 +117,13 @@ Sitemap - visar navigeringshierarkin på webbsidan
 ![Sitemap](https://www.syntacticsinc.com/wp-content/uploads/2023/08/image_2023_08_07T05_05_52_722Z-1024x456.png)
 
 Wireframe - grov och enkel bild av gränssnittet, inga färger och riktiga bilder m.m.
+Ett Figma plugin för wireframes.
+
+<https://www.figma.com/community/file/880190575678066152>
+
  ![Wireframe](https://t3.ftcdn.net/jpg/03/67/11/50/360_F_367115012_XKquocU4xrg79qEk9ZhUWuuEoJlyUTsr.jpg)
 
-Design - förväntar mig inte den här nivån, men designen är det snygga slutresultatet
+Design - förväntar mig inte den här nivån, men designen är det snygga slutresultatet. I codecademy finns en kort introduktion till Figma. Men vill man ha en djupare och längre genomgång är denna bra: <https://www.youtube.com/watch?v=kbegkFoKvUM>
  ![Design](https://s3u.tmimgcdn.com/u46522830/c9e09baa48733183073b6aaea2efecf4.jpg)
 
 
