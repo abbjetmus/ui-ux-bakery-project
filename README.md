@@ -12,6 +12,10 @@
 
 <https://www.codecademy.com/content-items/c2b65f9281fdeff54c3a228926ed913c?preview=true>
 
+<https://www.codecademy.com/courses/intro-to-ui-ux/articles/what-are-ui-and-ux-design>
+
+<https://www.codecademy.com/courses/intro-to-ui-ux/lessons/ui-and-ux-key-methodologies/exercises/defining-good-ux>
+
 ## Introduktion
 I detta projekt kommer vi att öva på UI/UX och tillämpa det på ett case. 
 Ni kommer att arbeta i grupper om 3 i projektet där ni får bestämma medlemmar. 
