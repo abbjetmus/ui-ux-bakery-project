@@ -131,4 +131,12 @@ Design - förväntar mig inte den här nivån, men designen är det snygga slutr
  ![Design](https://s3u.tmimgcdn.com/u46522830/c9e09baa48733183073b6aaea2efecf4.jpg)
 
 
-5. (Inget krav) Räcker tiden till implementera webbsidan med valfria tekniker.
+5. Det känns som att tiden räcker till att implementera webbsidan med valfria tekniker. Men jag föreslår starkt att ni använder Vue och Quasar Framework som jag kommer gå igenom. Ni kommer ha stor nytta av det i framtida projekt också. Jag tillhandahåller ett exempel projekt i Quasar på länken:
+
+<https://github.com/abbjetmus/programmering/tree/master/Vue>
+
+Men gå först igenom grunderna i Vue innan ni hoppar in i Quasar mallen.
+
+<https://github.com/abbjetmus/programmering/tree/master/Vue>
+
+<https://quasar.dev/>
